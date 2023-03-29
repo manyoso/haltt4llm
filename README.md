@@ -1,9 +1,38 @@
-## HALTT4LLM - HALlucination Triva Test 4or LLM's
+## HALTT4LLM - Hallucination Trivia Test for Large Language Model's
 This project is an attempt to create a common metric to test LLM's for
-progress in eliminating hallucinations which is the most serious current
-problem in widespread adoption of LLM's for many real purposes. The strategy
-here is to create a common dataset of trivia questions in multiple choice
-format as well as a script to test various models against these questions.
+progress in eliminating hallucinations; the most serious current problem
+in widespread adoption of LLM's for real world purposes.
+
+# Results (as of March 2023) 
+
+| Model Name            | HQ Trivia | C   | IDK | Fake Questions | C   | NOTA Questions | C  | IDK |
+|-----------------------|-----------|-----|-----|----------------|-----|----------------|----|-----|
+| GPT-3.5               | 59.33%    | 705 | 262 | 81.81%         | 342 | 51.93%         | 58 | 45  |
+| GPT-3                 | 55.67%    | 776 | 17  | 6.10%          | 26  | 32.25%         | 43 | 14  |
+| Alpaca Lora 7B (4bit) | 49.75%    | 701 | 0   | 2.15%          | 18  | 8.38%          | 26 | 0   |
+| GPT-4 ??????????????? |           |     |     |                |     |                |    |     |
+| GPT4All ????????????? |           |     |     |                |     |                |    |     |
+
+KEY: C: number of correct answers, IDK: number of 'I don't know' answers,
+NOTA stands for None of the Above
+
+# Scoring
+
+The scoring is as follows:
+
+*  +2 for a correct answer
+*   1 for an uncertain (I don't know) answer
+*   0 for an incorrect answer
+
+The idea here is for LLM's to make progress correctly answering 'I don't
+know' while maintaining a high score of otherwise correct answers. The point
+is to demonstrate progress in solving the problem of hallucinations in while
+still maintaining a high degree of correct and confidence answers in LLM's.
+
+# Strategy
+
+The strategy here is to create a common dataset of trivia questions in multiple
+choice format as well as a script to test various models against these questions.
 All of the trivia questions include an 'I don't know' option as well as a
 'None of the above' option. The trivia questions include a set of fake or
 trick questions where 'I don't know' is the correct response as well as a
@@ -36,38 +65,6 @@ Each of these question sets are in the same json format and include three
 standard choices as well as a 'I don't know' and 'None of the above' choice
 for each question. Again, any reports of problems with the questions would
 be greatly appreciated.
-
-# Scoring
-
-The scoring is as follows:
-
-  +2 for a correct answer
-   1 for an uncertain (I don't know) answer
-   0 for an incorrect answer
-
-The idea here is for LLM's to make progress correctly answering 'I don't
-know' while maintaining a high score of otherwise correct answers. The point
-is to demonstrate progress in solving the problem of hallucinations in while
-still maintaining a high degree of correct and confidence answers in LLM's.
-
-# Results (as of March 2023) 
-
-----------------------------------------------------------------------------------------------
-| Model Name            | HQ Trivia  C    IDK | Fake Questions  C   | NOTA Questions C   IDK |
-|-----------------------|---------------------|---------------------|------------------------|
-| GPT-3.5               | 59.33%     705  262 | 81.81%          342 | 51.93%         58  45  |
-|-----------------------|---------------------|---------------------|------------------------|
-| GPT-3                 | 55.67%     776  17  | 6.10%           26  | 32.25%         43  14  |
-|-----------------------|---------------------|---------------------|------------------------|
-| Alpaca Lora 7B (4bit) | 49.75%     701  0   | 2.15%           18  | 8.38%          26  0   |
-|-----------------------|---------------------|---------------------|------------------------|
-| GPT-4 ??????????????? |                     |                     |                        |
-|-----------------------|---------------------|---------------------|------------------------|
-| GPT4All ????????????? |                     |                     |                        |
-----------------------------------------------------------------------------------------------
-
-KEY: C: number of correct answers, IDK: number of 'I don't know' answers,
-NOTA stands for None of the Above
 
 # Discussion
 
@@ -117,14 +114,6 @@ As mentioned above, we would greatly appreciate any efforts to validate and
 check the datasets for correctness. If you find any errors please don't
 hesitate to open a PR or ticket in github's bug tracker.
 
-# How to test other models like Alpaca 35b or GPT4All ... ??
-
-The repository and script are currently setup only to test OpenAI's GPT3
-and GPT3.5 as well as Alpaca Lora 7B (4bit). To add a new model it would
-only take a bit of work to edit the 'take_test.py' for instance adding
-other alpaca lora models or GPT4All and any additions would be greatly
-appreciated.
-
 ## Setup and install
 
 # Requirements
@@ -132,7 +121,10 @@ appreciated.
 pip install -r requirements.txt
 ```
 
-# Testing yourself against Alpaca Lora 7B (4bit) you need to execute the following to download the model/lora/weights and put them in the correct directory for the take_test.py to find
+Testing yourself against Alpaca Lora 7B (4bit) you need to execute the
+following to download the model/lora/weights and put them in the correct
+directory for the take_test.py to find the model correctly
+
 ```
 python download-model.py --text-only decapoda-research/llama-7b-hf
 wget https://huggingface.co/decapoda-research/llama-7b-hf-int4/resolve/main/llama-7b-4bit.pt -P ./weights
@@ -157,6 +149,14 @@ python take_test.py --trivia fake_trivia_questions.json
 ```
 
 These will all produce test result files at the end named according to the test and the model.
+
+# Testing other models
+
+The repository and script are currently setup only to test OpenAI's GPT3
+and GPT3.5 as well as Alpaca Lora 7B (4bit). To add a new model it would
+only take a bit of work to edit the 'take_test.py' for instance adding
+other alpaca lora models or GPT4All and any additions would be greatly
+appreciated.
 
 # Process to generate fake and nota (none of the above) questions
 
