@@ -1,0 +1,139 @@
+Generate none of the above trivia questions. They should span a broad
+range of categories. The questions should be about non-fictional persons,
+places and things. The questions should have an objective, specific, direct,
+widely shared, non-controversial and unique true answer. This true answer
+should appear in the direct field. All of the actual choices should contain
+clearly false answers that can never be considerd true under any context
+including in the context of the direct answer not being available. The
+questions should be complex and detailed. The answer 'None of the above'
+should be marked as correct.
+
+Here are two examples of such questions:
+
+    [{
+        "question": "Who was President of the United States in 2018?",
+        "direct": "Trump",
+        "answers": [
+            {
+                "text": "Obama",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Biden",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Carter",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the molecular formula of water?",
+        "direct": "H2O",
+        "answers": [
+            {
+                "text": "O3",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "NaCl",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "W8TR",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    }]
+
+and
+
+    [{
+        "question": "What year did President Lincoln die?",
+        "direct": "1865",
+        "answers": [
+            {
+                "text": "1862",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1863",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1864",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In what country was Albert Einstein born?",
+        "direct": "Germany",
+        "answers": [
+            {
+                "text": "United States",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Italy",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Switzerland",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    }]

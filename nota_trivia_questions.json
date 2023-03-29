@@ -1,0 +1,4807 @@
+[
+    {
+        "question": "What is the name of the first president of the AFL-CIO?",
+        "direct": "George Meany",
+        "answers": [
+            {
+                "text": "Phillip Randolph",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Walter Reuther",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "John L. Lewis",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the equation that describes the interaction between mass, energy and the speed of light?",
+        "direct": "E=MC^2",
+        "answers": [
+            {
+                "text": "E=MA^2",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "E=MN^2",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "E=MC",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What was the highest rank held by Ulysses S. Grant during the American Civil War?",
+        "direct": "General of the Army",
+        "answers": [
+            {
+                "text": "Lieutenant General",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Major General",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Colonel",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the traditional name of the logical argument form known as modus ponens?",
+        "direct": "Affirming the antecedent",
+        "answers": [
+            {
+                "text": "Denying the consequent",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Affirming the consequent",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Denying the antecedent",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not an organ of the respiratory system?",
+        "direct": "Nose",
+        "answers": [
+            {
+                "text": "Lungs",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Trachea",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Bronchi",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the diameter of the Sun?",
+        "direct": "1.39 million km",
+        "answers": [
+            {
+                "text": "2.7 million km",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "139 thousand km",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "139 million km",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who wrote the novel 'The Catcher in the Rye'?",
+        "direct": "J. D. Salinger",
+        "answers": [
+            {
+                "text": "Mark Twain",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "John Steinbeck",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Kurt Vonnegut",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the principle of non-contradiction?",
+        "direct": "Something cannot be both true and false at the same time",
+        "answers": [
+            {
+                "text": "Everything is relative",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "The whole is equal to the sum of its parts",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The more complex the better",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In which country is the ancient city of Machu Picchu located?",
+        "direct": "Peru",
+        "answers": [
+            {
+                "text": "Colombia",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Argentina",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Brazil",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "direct": "The Sahara",
+        "answers": [
+            {
+                "text": "The Atacama",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "The Gobi",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The Kalahari",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for a koala?",
+        "direct": "Phascolarctos cinereus",
+        "answers": [
+            {
+                "text": "Giraffa camelopardalis",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Felis catus",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Canis lupus",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which element makes up the majority of the mass of a rocky planet such as Earth?",
+        "direct": "Iron",
+        "answers": [
+            {
+                "text": "Carbon",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Oxygen",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Silicon",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the universe's oldest known galaxy?",
+        "direct": "MRC 1138-262",
+        "answers": [
+            {
+                "text": "NGC 4889",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "NGC 1399",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "NGC 3115",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who designed the grounds for the Taj Mahal?",
+        "direct": "Ustad Ahmad Lahori",
+        "answers": [
+            {
+                "text": "Mughal Emperor Shah Jahan",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Hafeez Ullah Khan",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Muhammad Hussain Khan",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name of the common apple?",
+        "direct": "Malus domestica",
+        "answers": [
+            {
+                "text": "Citrus sinensis",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Fragaria vesca",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Vaccinium macrocarpon",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a type of visa issued to a foreign national wishing to become a lawful permanent resident of the United States?",
+        "direct": "Green Card",
+        "answers": [
+            {
+                "text": "Fiance Visa",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Student Visa",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Tourist Visa",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical composition of pure iron?",
+        "direct": "Fe",
+        "answers": [
+            {
+                "text": "C",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Ag",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Au",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who was the Prime Minister of Australia in 2015?",
+        "direct": "Turnbull",
+        "answers": [
+            {
+                "text": "Abbott",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Rudd",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Gillard",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the most abundant mineral in the Earth's crust?",
+        "direct": "Quartz",
+        "answers": [
+            {
+                "text": "Calcite",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Feldspar",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Magnetite",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who is credited with the invention of the Violin?",
+        "direct": "Antonio Stradivari",
+        "answers": [
+            {
+                "text": "Ludwig van Beethoven",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Hans Br\u00fcderl",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Mikhail Ivanovich Glinka",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of these is a famous work by Bach?",
+        "direct": "Brandenburg Concerto No. 3",
+        "answers": [
+            {
+                "text": "La Cenerentola",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Rite of Spring",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Carmen",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for the African Elephant?",
+        "direct": "Loxodonta africana",
+        "answers": [
+            {
+                "text": "Elephas maximus",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Hippopotamus amphibius",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Giraffa camelopardalis",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for the Ostrich?",
+        "direct": "Struthio camelus",
+        "answers": [
+            {
+                "text": "Anser anser",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Pygoscelis adeliae",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Ara macao",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the world's largest producer of petroleum?",
+        "direct": "Saudi Arabia",
+        "answers": [
+            {
+                "text": "Russia",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "United States",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Iran",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for tulip?",
+        "direct": "Tulipa",
+        "answers": [
+            {
+                "text": "Rosa",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Lilium",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Gerbera",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "direct": "Portuguese",
+        "answers": [
+            {
+                "text": "Spanish",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "French",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "English",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In what year was the Treaty of Westphalia signed?",
+        "direct": "1648",
+        "answers": [
+            {
+                "text": "1526",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1789",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1919",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of lens is used to correct nearsightedness?",
+        "direct": "Concave lens",
+        "answers": [
+            {
+                "text": "Convex lens",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Cylindrical lens",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Bifocal lens",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of resource is natural gas?",
+        "direct": "Fossil fuel",
+        "answers": [
+            {
+                "text": "Renewable energy source",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Mineral resource",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Nuclear energy source",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of clothing is typically worn to a black tie event?",
+        "direct": "Formalwear",
+        "answers": [
+            {
+                "text": "Business Casual",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Athletic Wear",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Beachwear",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who wrote the musical 'The Phantom of the Opera'?",
+        "direct": "Andrew Lloyd Webber",
+        "answers": [
+            {
+                "text": "Stephen Sondheim",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Lin-Manuel Miranda",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Elton John",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a component of a balanced diet?",
+        "direct": "Sugar",
+        "answers": [
+            {
+                "text": "Fruits",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Vegetables",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Protein",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the main ingredient in a Vodka Martini?",
+        "direct": "Vodka",
+        "answers": [
+            {
+                "text": "Gin",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Whiskey",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Tequila",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the German philosopher who argued for the existence of a categorical imperative?",
+        "direct": "Kant",
+        "answers": [
+            {
+                "text": "Hegel",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Nietzsche",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Kierkegaard",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the atomic symbol for Carbon?",
+        "direct": "C",
+        "answers": [
+            {
+                "text": "O",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "N",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "H",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the economic system characterized by private or corporate ownership of capital goods?",
+        "direct": "Capitalism",
+        "answers": [
+            {
+                "text": "Socialism",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Communism",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Fascism",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the accepted theory of the origin of the universe according to modern cosmology?",
+        "direct": "The Big Bang Theory",
+        "answers": [
+            {
+                "text": "The Gaia Hypothesis",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "The Steady State Theory",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The Oscillating Universe Theory",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the river that the Greeks believed the souls of the dead crossed on the way to Hades?",
+        "direct": "Styx",
+        "answers": [
+            {
+                "text": "Lethe",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Phlegethon",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Acheron",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical formula for Sodium Chloride (table salt)?",
+        "direct": "NaCl",
+        "answers": [
+            {
+                "text": "Na2Cl2",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "NaCl2",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Na2Cl",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of musical instrument is the fiddle?",
+        "direct": "String",
+        "answers": [
+            {
+                "text": "Wind",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Brass",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Percussion",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a traditional African language?",
+        "direct": "Swahili",
+        "answers": [
+            {
+                "text": "Italian",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Hebrew",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Chinese",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following artifacts is not typically found at an archaeological site?",
+        "direct": "A paper document",
+        "answers": [
+            {
+                "text": "Tools",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Pottery shards",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Jewelry",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a symptom of the common cold?",
+        "direct": "Dehydration",
+        "answers": [
+            {
+                "text": "Runny nose",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Coughing",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Fever",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the largest bone in the human body?",
+        "direct": "Femur",
+        "answers": [
+            {
+                "text": "Ulna",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Rib",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Tibia",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who wrote the novel \u2018The Catcher in the Rye\u2019?",
+        "direct": "J.D. Salinger",
+        "answers": [
+            {
+                "text": "Ernest Hemingway",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "John Steinbeck",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Mark Twain",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the original title of the Brothers Grimm fairy tale 'Snow White and the Seven Dwarfs'?",
+        "direct": "Schneewittchen",
+        "answers": [
+            {
+                "text": "Aschenputtel",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Rapunzel",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Rumpelstiltskin",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a part of the U.S. Constitution?",
+        "direct": "The Monroe Doctrine",
+        "answers": [
+            {
+                "text": "The Bill of Rights",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "The Commerce Clause",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The Necessary and Proper Clause",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who wrote the play 'The Crucible'?",
+        "direct": "Arthur Miller",
+        "answers": [
+            {
+                "text": "Tennessee Williams",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "George Bernard Shaw",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Edward Albee",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Where did the first pyramid in Egypt, the Pyramid of Djoser, get its structure from?",
+        "direct": "Mastabas",
+        "answers": [
+            {
+                "text": "Ziggurats",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Tombs",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Temples",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of a gene?",
+        "direct": "APOE",
+        "answers": [
+            {
+                "text": "ATP",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "RNA",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Enzymes",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the largest active volcano in the world?",
+        "direct": "Mauna Loa",
+        "answers": [
+            {
+                "text": "Mount Vesuvius",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Mount St. Helens",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Krakatoa",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical formula for sucrose?",
+        "direct": "C12H22O11",
+        "answers": [
+            {
+                "text": "C18H38O19",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "C6H12O6",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "H2O",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who founded the company Tesla Motors?",
+        "direct": "Elon Musk",
+        "answers": [
+            {
+                "text": "Steve Jobs",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Bill Gates",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Mark Zuckerberg",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which medication is used to treat diabetes?",
+        "direct": "Insulin",
+        "answers": [
+            {
+                "text": "Paracetamol",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Penicillin",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Aspirin",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the highest mountain in the world?",
+        "direct": "Mount Everest",
+        "answers": [
+            {
+                "text": "Mount Kilimanjaro",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "K2",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Kanchenjunga",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the leading theory of the early universe?",
+        "direct": "Big Bang Theory",
+        "answers": [
+            {
+                "text": "Stochastic Interpretation",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Gravitational Contraction Theory",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Steady State Theory",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the only primate to have wings?",
+        "direct": "Sugar Glider",
+        "answers": [
+            {
+                "text": "Lemur",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Tarsier",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Spider Monkey",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the key size of the AES-256 encryption algorithm?",
+        "direct": "256-bit",
+        "answers": [
+            {
+                "text": "128-bit",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "512-bit",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1024-bit",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who is the father of Zeus in Greek mythology?",
+        "direct": "Cronus",
+        "answers": [
+            {
+                "text": "Odin",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Ra",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Thor",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the disease caused by an infection of the smallpox virus?",
+        "direct": "Smallpox",
+        "answers": [
+            {
+                "text": "Measles",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Influenza",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Chickenpox",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of star is the Sun?",
+        "direct": "G-Type",
+        "answers": [
+            {
+                "text": "Blue Giant",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Red Giant",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "White Dwarf",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the primary language spoken in Chile?",
+        "direct": "Spanish",
+        "answers": [
+            {
+                "text": "English",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Portuguese",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Mandarin",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who wrote the influential book 'The Degradation of Work in the Twentieth Century'?",
+        "direct": "Harry Braverman",
+        "answers": [
+            {
+                "text": "Karl Marx",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Adam Smith",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "John Maynard Keynes",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which Greek god is considered to be the god of thunder?",
+        "direct": "Zeus",
+        "answers": [
+            {
+                "text": "Poseidon",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Hades",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Apollo",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the astrological sign for people born between November 22 and December 21?",
+        "direct": "Sagittarius",
+        "answers": [
+            {
+                "text": "Aries",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Cancer",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Leo",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is dark matter made up of?",
+        "direct": "Unknown",
+        "answers": [
+            {
+                "text": "Hydrogen atoms",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Helium atoms",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Lithium atoms",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What was the name of the Greek god of the sea?",
+        "direct": "Poseidon",
+        "answers": [
+            {
+                "text": "Zeus",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Hades",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Athena",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "direct": "Pretoria",
+        "answers": [
+            {
+                "text": "Cape Town",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Johannesburg",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Bloemfontein",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the plant hormone responsible for cell elongation?",
+        "direct": "Auxin",
+        "answers": [
+            {
+                "text": "Gibberellins",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Abscisic acid",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Cytokinins",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the process by which a chemical reaction speeds up when its reactants are within close proximity?",
+        "direct": "Catalysis",
+        "answers": [
+            {
+                "text": "Reduction",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Oxidation",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Hydrolysis",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the temperature on the surface of Venus?",
+        "direct": "467\u00b0C",
+        "answers": [
+            {
+                "text": "373\u00b0C",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "550\u00b0C",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "296\u00b0C",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the zodiac sign associated with the date August 21st?",
+        "direct": "Leo",
+        "answers": [
+            {
+                "text": "Gemini",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Capricorn",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Aquarius",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the law in Industrial Design that states that form follows function?",
+        "direct": "Form Follows Function",
+        "answers": [
+            {
+                "text": "Function Follows Form",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Form is Function",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Function is Form",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the average temperature of Earth's atmosphere?",
+        "direct": "15\u00b0C",
+        "answers": [
+            {
+                "text": "25\u00b0C",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "-20\u00b0C",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "30\u00b0C",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the average temperature on the surface of Mars?",
+        "direct": "-63\u00b0C",
+        "answers": [
+            {
+                "text": "-20\u00b0C",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "0\u00b0C",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "50\u00b0C",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the first dinosaur ever discovered?",
+        "direct": "Megalosaurus",
+        "answers": [
+            {
+                "text": "Tyrannosaurus Rex",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Brachiosaurus",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Spinosaurus",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In the philosophy of science, what is the name of the concept that states that only phenomena that can be observed, measured and repeated are considered as valid scientific evidence?",
+        "direct": "Empiricism",
+        "answers": [
+            {
+                "text": "Falsifiability",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Scientific Method",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Consilience",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not considered a renewable natural resource?",
+        "direct": "Fossil Fuels",
+        "answers": [
+            {
+                "text": "Solar Energy",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Wind Power",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Geothermal Energy",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a type of marine life?",
+        "direct": "Polar Bear",
+        "answers": [
+            {
+                "text": "Sea Anemones",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Sea Turtles",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Jellyfish",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which is the most common target for gene therapy in Oncology?",
+        "direct": "Cancer Cells",
+        "answers": [
+            {
+                "text": "Normal Cells",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Stem Cells",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Immune Cells",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Name the Italian artist who painted the fresco 'The Last Supper'?",
+        "direct": "Leonardo da Vinci",
+        "answers": [
+            {
+                "text": "Michelangelo",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Raffaelo Sanzio",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Titian",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which is the deepest ocean trench in the world?",
+        "direct": "Mariana Trench",
+        "answers": [
+            {
+                "text": "Tonga Trench",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Kuril-Kamchatka Trench",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Philippine Trench",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the first amendment of the United States Constitution?",
+        "direct": "Freedom of Religion, Speech, Press, Assembly and Petition",
+        "answers": [
+            {
+                "text": "Right to Bear Arms",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Right to a Trial by Jury",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Right to Privacy",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the law of non-contradiction?",
+        "direct": "Something cannot be both true and false at the same time",
+        "answers": [
+            {
+                "text": "Something can be both true and false at the same time",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Something that is true must be false",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Something that is false must be true",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name of the Great Blue Heron?",
+        "direct": "Ardea herodias",
+        "answers": [
+            {
+                "text": "Ardea cinerea",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Egretta thula",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Pandion haliaetus",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In Norse mythology, what type of creature is the Fenris Wolf?",
+        "direct": "Giant Wolf",
+        "answers": [
+            {
+                "text": "Giant Bear",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Giant Stag",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Fire Giant",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What country was the site of the Battle of the Somme during WWI?",
+        "direct": "France",
+        "answers": [
+            {
+                "text": "Germany",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Belgium",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Russia",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who is the founder of the Sikh religion?",
+        "direct": "Guru Nanak",
+        "answers": [
+            {
+                "text": "Guru Angad",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Guru Amar Das",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Guru Arjan",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the earliest historical record of immigration to the United States?",
+        "direct": "1608",
+        "answers": [
+            {
+                "text": "1776",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1850",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1890",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "The estimated age of the universe is approximately how many years old?",
+        "direct": "13.8 billion",
+        "answers": [
+            {
+                "text": "4.5 billion",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "6.5 trillion",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "7.5 million",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for the plant commonly known as the Rose?",
+        "direct": "Rosa sp.",
+        "answers": [
+            {
+                "text": "Camellia sp.",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Rhododendron sp.",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Tulipa sp.",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In Greek mythology, who is the king of the gods?",
+        "direct": "Zeus",
+        "answers": [
+            {
+                "text": "Hades",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Ares",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Poseidon",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for the family of flowering plants commonly known as the daisy?",
+        "direct": "Asteraceae",
+        "answers": [
+            {
+                "text": "Liliaceae",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Fabaceae",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Rosaceae",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the theories of urban development proposed by Jane Jacobs in her 1961 book The Death and Life of Great American Cities?",
+        "direct": "Organic City and the Theory of Social Life Generators",
+        "answers": [
+            {
+                "text": "Theory of Planned Change",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Theory of Complex Adaptive Systems",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Theory of Bifurcation",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which philosopher wrote 'The Republic'?",
+        "direct": "Plato",
+        "answers": [
+            {
+                "text": "Aristotle",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Descartes",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Nietzsche",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the world's first digital computer?",
+        "direct": "ENIAC",
+        "answers": [
+            {
+                "text": "Z3",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Atanasoff-Berry Computer",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "UNIVAC I",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the United Nations Security Council's permanent members?",
+        "direct": "China, France, Russia, United Kingdom, United States",
+        "answers": [
+            {
+                "text": "India, Japan, South Korea, Philippines, Thailand",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Germany, Netherlands, Belgium, United States, Canada",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Australia, Indonesia, South Africa, Egypt, Nigeria",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the avearge temperature of the highest mountain on Earth, Mount Everest?",
+        "direct": "-19\u00b0C",
+        "answers": [
+            {
+                "text": "2\u00b0C",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "10\u00b0C",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "30\u00b0C",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the ethnic group native to the Kivu region of the Democratic Republic of the Congo?",
+        "direct": "Banyamulenge",
+        "answers": [
+            {
+                "text": "Gorilla",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Banyarwanda",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Bakongo",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the primary organ in the human body responsible for removing toxins and metabolic waste?",
+        "direct": "liver",
+        "answers": [
+            {
+                "text": "lungs",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "stomach",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "intestines",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the sum of the first 7 prime numbers?",
+        "direct": "28",
+        "answers": [
+            {
+                "text": "21",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "35",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "42",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which country was the first to recognize the United States as an independent nation?",
+        "direct": "France",
+        "answers": [
+            {
+                "text": "Spain",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "United Kingdom",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Russia",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who is known as the Father of Modern China?",
+        "direct": "Sun Yat-sen",
+        "answers": [
+            {
+                "text": "Deng Xiaoping",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Mao Zedong",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Chiang Kai-shek",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which mathematician is known for his work on the prime number theorem?",
+        "direct": "Leonhard Euler",
+        "answers": [
+            {
+                "text": "Pythagoras",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Archimedes",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Isaac Newton",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "When was the Battle of Waterloo?",
+        "direct": "1815",
+        "answers": [
+            {
+                "text": "1805",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1810",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1820",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who wrote the tragedies Oedipus the King and Antigone?",
+        "direct": "Sophocles",
+        "answers": [
+            {
+                "text": "Aeschylus",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Euripides",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Homer",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the logical principle known as the 'law of excluded middle'?",
+        "direct": "Every statement is either true or false",
+        "answers": [
+            {
+                "text": "A statement cannot be both true and false",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "A statement is neither true nor false",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "A statement can be both true and false",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical formula for Propane?",
+        "direct": "C3H8",
+        "answers": [
+            {
+                "text": "C2H6",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "H2O",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "C3H7",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What galaxy is the Earth located in?",
+        "direct": "Milky Way",
+        "answers": [
+            {
+                "text": "Andromeda",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Comma Galaxy",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Pinwheel Galaxy",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a type of media?",
+        "direct": "Plastic",
+        "answers": [
+            {
+                "text": "Print",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Television",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Social Media",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which battle began the American Revolutionary War?",
+        "direct": "Battle of Lexington and Concord",
+        "answers": [
+            {
+                "text": "Battle of Yorktown",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Battle of Bunker Hill",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Battle of Saratoga",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of rock makes up the majority of Earth's crust?",
+        "direct": "Igneous rock",
+        "answers": [
+            {
+                "text": "Sedimentary rock",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Metamorphic rock",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Granite",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the language spoken in Japan?",
+        "direct": "Japanese",
+        "answers": [
+            {
+                "text": "Chinese",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Korean",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Thai",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific classification for ants?",
+        "direct": "Formicidae",
+        "answers": [
+            {
+                "text": "Arachnida",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Insecta",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Mammalia",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the media conglomerate that owns the Fox News Network?",
+        "direct": "Fox Corporation",
+        "answers": [
+            {
+                "text": "CBS Corporation",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Time Warner",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Disney",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the Chemical Name for Vitamin C?",
+        "direct": "Ascorbic Acid",
+        "answers": [
+            {
+                "text": "Vitamin B-12",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Folic Acid",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Vitamin A",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What year was the discovery of penicillin?",
+        "direct": "1928",
+        "answers": [
+            {
+                "text": "1910",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1918",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1926",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the primary greenhouse gas in Earth's atmosphere?",
+        "direct": "Carbon dioxide",
+        "answers": [
+            {
+                "text": "Ozone",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Methane",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Water vapor",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name of the common daisy?",
+        "direct": "Bellis perennis",
+        "answers": [
+            {
+                "text": "Ranunculus acris",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Campanula rapunculus",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Tulipa gesneriana",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who was the Prime Minister of Canada in 2014?",
+        "direct": "Stephen Harper",
+        "answers": [
+            {
+                "text": "Justin Trudeau",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Jean Chretien",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Paul Martin",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In what century did the French Revolution occur?",
+        "direct": "18th Century",
+        "answers": [
+            {
+                "text": "17th Century",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "19th Century",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "20th Century",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In mathematics, what is the mathematical constant e?",
+        "direct": "2.718",
+        "answers": [
+            {
+                "text": "3.1415",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1.6180",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "7.1234",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the term for a large body of air that is characterized by slowly horizontal movement, similar temperature and humidity?",
+        "direct": "Air Mass",
+        "answers": [
+            {
+                "text": "Wind stream",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Hurricane",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Fog bank",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the medical name for the procedure whereby a tube is inserted into a patient's bladder to collect urine?",
+        "direct": "Catheterization",
+        "answers": [
+            {
+                "text": "Stent insertion",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Laparoscopy",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Dialysis",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the scientific study of the structure, development, and use of language?",
+        "direct": "Linguistics",
+        "answers": [
+            {
+                "text": "Psychology",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Sociology",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Philosophy",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the mathematical theorem that states that any two distinct lines in a two-dimensional plane must intersect in at least one point?",
+        "direct": "The Intersection Theorem",
+        "answers": [
+            {
+                "text": "The Parallel Theorem",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "The Pythagorean Theorem",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The Angle Sum Theorem",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "The discovery of the first dinosaur skeleton, Megalosaurus, was made in which country?",
+        "direct": "England",
+        "answers": [
+            {
+                "text": "France",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Germany",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "India",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In which year was the World Cultural Forum established?",
+        "direct": "1996",
+        "answers": [
+            {
+                "text": "1990",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1992",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1995",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the term used to refer to the way a language changes over time?",
+        "direct": "Diachrony",
+        "answers": [
+            {
+                "text": "Synchony",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Dialectology",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Orthography",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the phenomenon where the presence of predators reduces the population of prey?",
+        "direct": "Predator-prey cycle",
+        "answers": [
+            {
+                "text": "Herbivore-plant cycle",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Competition cycle",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Habitat destruction cycle",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In the game of chess, which of the following pieces can move in any direction?",
+        "direct": "Queen",
+        "answers": [
+            {
+                "text": "Rook",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Pawn",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Knight",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a renewable natural resource?",
+        "direct": "Solar Energy",
+        "answers": [
+            {
+                "text": "Coal",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Uranium",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Crude Oil",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is the most common type of phytoplankton found in the ocean?",
+        "direct": "Diatoms",
+        "answers": [
+            {
+                "text": "Coccolithophores",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Dinoflagellates",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Euglenoids",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "The development of suburban sprawl has been linked with which two features of urban planning?",
+        "direct": "Automobile dependence and low density development",
+        "answers": [
+            {
+                "text": "Compact development and shared use paths",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Green belts and regional planning",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Urban density and public transportation",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which essential nutrient is derived from the breakdown of protein in the body?",
+        "direct": "Amino acids",
+        "answers": [
+            {
+                "text": "Vitamins",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Carbohydrates",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Fats",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the name of the political party that is currently in power in the United Kingdom?",
+        "direct": "The Conservative Party",
+        "answers": [
+            {
+                "text": "The Labour Party",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "The Liberal Democrats",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The Green Party",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for the common bean?",
+        "direct": "Phaseolus vulgaris",
+        "answers": [
+            {
+                "text": "Brassica oleracea",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Vicia faba",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Vigna radiata",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In the United States, which amendment to the Constitution abolished slavery?",
+        "direct": "Thirteenth Amendment",
+        "answers": [
+            {
+                "text": "First Amendment",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Fourth Amendment",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Seventh Amendment",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the longest river in the United States?",
+        "direct": "Missouri River",
+        "answers": [
+            {
+                "text": "Columbia River",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Snake River",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Colorado River",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the primary language spoken in Mexico?",
+        "direct": "Spanish",
+        "answers": [
+            {
+                "text": "English",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "French",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "German",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who proposed the Big Bang Theory of the universe?",
+        "direct": "George Lemaitre",
+        "answers": [
+            {
+                "text": "Albert Einstein",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Isaac Newton",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Stephen Hawking",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of plant is a carnation?",
+        "direct": "Dianthus",
+        "answers": [
+            {
+                "text": "Tomato",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Oak Tree",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Rose",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Which of the following philosophers is associated with the expression 'I think, therefore I am'?",
+        "direct": "Descartes",
+        "answers": [
+            {
+                "text": "Plato",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Aristotle",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Kant",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "The ocean currents of the North Pacific Gyre are responsible for creating which phenomenon?",
+        "direct": "The Great Pacific Garbage Patch",
+        "answers": [
+            {
+                "text": "The Sargasso Sea",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Monsoon Winds",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The Bermuda Triangle",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the philosophical principle known as Occam's Razor?",
+        "direct": "The simplest explanation is usually the best",
+        "answers": [
+            {
+                "text": "The more complex the explanation, the more likely it is to be true",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "The best explanation is the one with the most evidence",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "The most accurate explanation is the one with the most data",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In the 2008 Summer Olympics, who won the gold medal in the Men's 200 meter sprint?",
+        "direct": "Usain Bolt",
+        "answers": [
+            {
+                "text": "Michael Johnson",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Carl Lewis",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Yohan Blake",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "direct": "1989",
+        "answers": [
+            {
+                "text": "1990",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "1991",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "1992",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "In Greek mythology, who was the God of the sea?",
+        "direct": "Poseidon",
+        "answers": [
+            {
+                "text": "Aphrodite",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Zeus",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Hades",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the scientific name for the Japanese Maple Tree?",
+        "direct": "Acer palmatum",
+        "answers": [
+            {
+                "text": "Acer japonicum",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Acer rubrum",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Acer pseudoplatanus",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the primary language of Ethiopia?",
+        "direct": "Amharic",
+        "answers": [
+            {
+                "text": "Arabic",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "English",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Tigrinya",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the active ingredient in the drug Amoxicillin?",
+        "direct": "Amoxicillin",
+        "answers": [
+            {
+                "text": "Penicillin",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Ibuprofen",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Acetaminophen",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What type of architectural style is exemplified by the Parthenon in Greece?",
+        "direct": "Classical",
+        "answers": [
+            {
+                "text": "Gothic",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Romanesque",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Baroque",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who formulated the Theory of Relativity?",
+        "direct": "Einstein",
+        "answers": [
+            {
+                "text": "Newton",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Descartes",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Kant",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the most decorated American veteran of World War II?",
+        "direct": "Audie Murphy",
+        "answers": [
+            {
+                "text": "George S. Patton",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Ernest King",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Douglas MacArthur",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "Who is the Norse God of Mischief?",
+        "direct": "Loki",
+        "answers": [
+            {
+                "text": "Thor",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Frigg",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Odin",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": true,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": false,
+                "choice": "E"
+            }
+        ]
+    }
+]

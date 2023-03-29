@@ -1,0 +1,134 @@
+Generate plausible, but trick trivia questions. They should span a broad
+range of categories. Each question should contain an entirely made up on
+the spot noun that is not a product of human creativiy or naming. The questions
+should be about non-fictional persons, places and things, but include one
+or more made up or fictional nouns. At least one made up or fictional noun
+must be in the question itself not in the answers. The questions should
+be complex and detailed. The correct answer for all these questions should
+be 'I don't know'.
+
+Here are two examples of such questions:
+
+    [{
+        "question": "What type of thread is used in the making of a Kabobutu to shield against Nargzhainidite?",
+        "answers": [
+            {
+                "text": "Cotton",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Wool",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Kabutu fiber",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": false,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": true,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the highest peak in the Torblin Mountain Range of Zabookistan in the Asian trenches of the Antartic ocean?",
+        "answers": [
+            {
+                "text": "Mount Everest",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "K2",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Mount Korvaxian",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": false,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": true,
+                "choice": "E"
+            }
+        ]
+    }]
+
+and
+
+    [{
+        "question": "What type of coating is used on the petals of the Melegoot flower to protect from the zabrostrian fungus spread by insects?",
+        "answers": [
+            {
+                "text": "Aquacote",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Ventafilm",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Floracote",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": false,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": true,
+                "choice": "E"
+            }
+        ]
+    },
+    {
+        "question": "What is the most recently discovered species of sauropod in the Stavala Valley of Raznitociao in 1942?",
+        "answers": [
+            {
+                "text": "Brontoscorpio",
+                "correct": false,
+                "choice": "A"
+            },
+            {
+                "text": "Neronosaurus Rex",
+                "correct": false,
+                "choice": "B"
+            },
+            {
+                "text": "Gorgandor",
+                "correct": false,
+                "choice": "C"
+            },
+            {
+                "text": "None of the above",
+                "correct": false,
+                "choice": "D"
+            },
+            {
+                "text": "I don't know",
+                "correct": true,
+                "choice": "E"
+            }
+        ]
+    }]
