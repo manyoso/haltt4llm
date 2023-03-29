@@ -16,9 +16,9 @@ in widespread adoption of LLM's for real world purposes.
 * **C** *number of correct answers*
 * **IDK** *number of 'I don't know' answers*
 * **NOTA** *stands for None of the Above*
-* HQ Trivia - 1409 questions
-* Fake Questions - 418 questions
-* NOTA Questions - 155 questions
+* **HQ Trivia** - 1409 questions
+* **Fake Questions** - 418 questions
+* **NOTA Questions** - 155 questions
 
 ## Scoring
 
