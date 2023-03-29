@@ -10,11 +10,12 @@ in widespread adoption of LLM's for real world purposes.
 | GPT-3.5               | 59.33%    | 705 | 262 | 81.81%         | 342 | 51.93%         | 58 | 45  |
 | GPT-3                 | 55.67%    | 776 | 17  | 6.10%          | 26  | 32.25%         | 43 | 14  |
 | Alpaca Lora 7B (4bit) | 49.75%    | 701 | 0   | 2.15%          | 18  | 8.38%          | 26 | 0   |
-| GPT-4 ??????????????? |           |     |     |                |     |                |    |     |
-| GPT4All ????????????? |           |     |     |                |     |                |    |     |
+| GPT-4                 |           |     |     |                |     |                |    |     |
+| GPT4All               |           |     |     |                |     |                |    |     |
 
-KEY: C: number of correct answers, IDK: number of 'I don't know' answers,
-NOTA stands for None of the Above
+* **C** *number of correct answers*
+* **IDK** *number of 'I don't know' answers*
+* **NOTA** *stands for None of the Above*
 
 ## Scoring
 
