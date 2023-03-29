@@ -9,7 +9,7 @@ in widespread adoption of LLM's for real world purposes.
 |-----------------------|-----------|-----|-----|----------------|-----|----------------|----|-----|
 | GPT-3.5               | 59.33%    | 705 | 262 | 81.81%         | 342 | 51.93%         | 58 | 45  |
 | GPT-3                 | 55.67%    | 776 | 17  | 6.10%          | 26  | 32.25%         | 43 | 14  |
-| Alpaca Lora 7B (4bit) | 49.75%    | 701 | 0   | 2.15%          | 18  | 8.38%          | 26 | 0   |
+| AlpacaLora-7B (4bit)  | 49.75%    | 701 | 0   | 2.15%          | 18  | 8.38%          | 26 | 0   |
 | GPT-4                 |           |     |     |                |     |                |    |     |
 | GPT4All               |           |     |     |                |     |                |    |     |
 
@@ -117,14 +117,15 @@ hesitate to open a PR or ticket in github's bug tracker.
 
 ## Setup and install
 
-## Requirements
+Install python dependencies.
+
 ```
 pip install -r requirements.txt
 ```
 
 Testing yourself against Alpaca Lora 7B (4bit) you need to execute the
 following to download the model/lora/weights and put them in the correct
-directory for the take_test.py to find the model correctly
+directory for the take_test.py to find the model correctly.
 
 ```
 python download-model.py --text-only decapoda-research/llama-7b-hf
@@ -134,17 +135,20 @@ python download-model.py samwit/alpaca7B-lora
 
 ## Examples for running the tests
 
-## Running the HQ Trivia test on OpenAI GPT-3.5
+Running the HQ Trivia test on OpenAI GPT-3.5
+
 ```
 python take_test.py --use-gpt3-5 --openai-key <YOUR_OPEN_API_KEY> --trivia hq_trivia_questions.json
 ```
 
-## Running the Fake Trivia test on OpenAI GPT-3
+Running the Fake Trivia test on OpenAI GPT-3
+
 ```
 python take_test.py --use-gpt3 --openai-key <YOUR_OPEN_API_KEY> --trivia fake_trivia_questions.json
 ```
 
-## Running the NOTA (None of the Above) Trivia test on Alpaca Lora 7B (4bit)
+Running the NOTA (None of the Above) Trivia test on Alpaca Lora 7B (4bit)
+
 ```
 python take_test.py --trivia fake_trivia_questions.json
 ```
