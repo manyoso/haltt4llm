@@ -24,9 +24,9 @@ in widespread adoption of LLM's for real world purposes.
 
 The scoring is as follows:
 
-*  +2 for a correct answer
-*   1 for an uncertain (I don't know) answer
-*   0 for an incorrect answer
+*  **+2** for a correct answer
+*  **1** for an uncertain (I don't know) answer
+*  **0** for an incorrect answer
 
 The idea here is for LLM's to make progress correctly answering 'I don't
 know' while maintaining a high score of otherwise correct answers. The point
