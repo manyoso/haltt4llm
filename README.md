@@ -1,4 +1,4 @@
-# HALTT4LLM - Hallucination Trivia Test for Large Language Model's
+# HALTT4LLM - Hallucination Trivia Test for Large Language Models
 This project is an attempt to create a common metric to test LLM's for
 progress in eliminating hallucinations; the most serious current problem
 in widespread adoption of LLM's for real world purposes.
@@ -41,8 +41,8 @@ All of the trivia questions include an 'I don't know' option as well as a
 'None of the above' option. The trivia questions include a set of fake or
 trick questions where 'I don't know' is the correct response as well as a
 set of questions where 'None of the above' is the correct response. This
-is in addition to a large corpus of real trivia questions with objective
-and unambiguous correct real world answers.
+in addition to a large corpus of real trivia questions with objective and 
+unambiguous correct real world answers.
 
 The resulting scores across these three sets can serve as a baseline to
 test various techniques/methods to mitigate hallucinations in LLMs.
