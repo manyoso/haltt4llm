@@ -46,7 +46,7 @@ def grade_answers(question_data, llm_answer):
 
     return f"{llm_answer} (incorrect {correct_answer['choice']}.)"
 
-def query_openai_gpt3_5(prompt, engine):
+def query_openai_gpt(prompt, engine):
     while True:
         try:
             response = openai.Completion.create(
@@ -146,7 +146,7 @@ def main():
 
         print(f"Question {i+1}: {question_string}")
         if use_gpt_3:
-            llm_answer = query_openai_gpt3_5(prompt, model_name)
+            llm_answer = query_openai_gpt(prompt, model_name)
         else:
             llm_answer = query_model(prompt, model, tokenizer)
 
