@@ -89,6 +89,9 @@ def query_model(
         input_ids = inputs["input_ids"].to(device)
         generation_config = GenerationConfig(
             temperature=temperature,
+            top_p=0.75,
+            top_k=40,
+            num_beams=2,
             **kwargs,
         )
         with torch.no_grad():
@@ -182,7 +185,7 @@ def generate_prompt(instruction):
 ### Instruction:
 {instruction}
 
-### Response:
+### Response:\n
 """
 
 if __name__ == '__main__':

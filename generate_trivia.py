@@ -47,13 +47,16 @@ def query_model(
         model,
         tokenizer,
         temperature=0.1,
-        max_new_tokens=50,
+        max_new_tokens=256,
         **kwargs,
     ):
         inputs = tokenizer(prompt, return_tensors="pt")
         input_ids = inputs["input_ids"].to(device)
         generation_config = GenerationConfig(
             temperature=temperature,
+            top_p=0.75,
+            top_k=40,
+            num_beams=2,
             **kwargs,
         )
         with torch.no_grad():
@@ -91,7 +94,7 @@ def generate_trivia_questions(prompt, model, num_questions):
                 # Select three random categories from the list
                 a, b, c = random.sample(categories, 3)
 
-                new_categories = f"\n\nGenerate three such questions in json format above in the categories of {a}, {b} and {c}."
+                new_categories = f"\n\nGenerate three such questions in format above in the categories of {a}, {b} and {c}."
                 new_prompt = generate_prompt(prompt + new_categories)
                 print(f"Prompt categories: {a}, {b} and {c}")
 
@@ -119,7 +122,7 @@ def generate_prompt(instruction):
 ### Instruction:
 {instruction}
 
-### Response:
+### Response:\n
 """
 
 def append_question_to_json(question, filename):
