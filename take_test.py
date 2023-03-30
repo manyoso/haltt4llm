@@ -4,7 +4,9 @@ import torch
 import json
 import time
 from transformers import GenerationConfig
-from autograd_4bit import load_llama_model_4bit_low_ram
+from autograd_4bit import load_llama_model_4bit_low_ram, Autograd4bitQuantLinear
+from peft import PeftModel
+from peft.tuners.lora import Linear4bitLt
 
 def load_trivia_questions(file_path):
     with open(file_path, 'r') as file:
@@ -112,11 +114,18 @@ def main():
     parser = argparse.ArgumentParser(description='Run trivia quiz with GPT-3 or a local model.')
     parser.add_argument('--use-gpt3', action='store_true', help='Use GPT-3')
     parser.add_argument('--use-gpt3-5', action='store_true', help='Use GPT-3.5')
+    parser.add_argument('--use-gpt4all', action='store_true', help='Use GPT4All')
+    parser.add_argument('--use-llama', action='store_true', help='Use Llama')
     parser.add_argument('--openai-key', type=str, help='OpenAI API key')
     parser.add_argument('--trivia', type=str, help='File path to trivia questions')
     args = parser.parse_args()
 
     use_gpt_3 = args.use_gpt3 or args.use_gpt3_5
+    use_gpt4all = args.use_gpt4all
+
+    if use_gpt_3 and use_gpt4all:
+        print("Can't use both gpt and gpt4all at same time.")
+        return
 
     if use_gpt_3 and not args.openai_key:
         print("Please provide an OpenAI API key with the --openai-key argument.")
@@ -126,14 +135,24 @@ def main():
         openai.api_key = args.openai_key
 
     if not use_gpt_3:
-        config_path = './models/llama-7b-hf/'
-        model_path = './weights/llama-7b-4bit.pt'
+        if use_gpt4all:
+            config_path = './models/llama-7b-hf/'
+            model_path = './weights/llama-7b-4bit.pt'
+            lora_path = './loras/gpt4all-lora/'
+        else:
+            config_path = './models/llama-7b-hf/'
+            model_path = './weights/llama-7b-4bit.pt'
+            lora_path = './loras/alpaca7B-lora/'
+
         model, tokenizer = load_llama_model_4bit_low_ram(config_path, model_path)
-        print('Fitting 4bit scales and zeros to half')
-        for n, m in model.named_modules():
-            if '4bit' in str(type(m)):
-                m.zeros = m.zeros.half()
-                m.scales = m.scales.half()
+        if not args.use_llama:
+            model = PeftModel.from_pretrained(model, lora_path)
+            print('Fitting 4bit scales and zeros to half')
+            for n, m in model.named_modules():
+                if isinstance(m, Autograd4bitQuantLinear) or isinstance(m, Linear4bitLt):
+                    m.zeros = m.zeros.half()
+                    m.scales = m.scales.half()
+                    m.bias = m.bias.half()
 
     file_path = args.trivia
     trivia_data = load_trivia_questions(file_path)
@@ -141,7 +160,17 @@ def main():
     total_score = 0
     incorrect = []
     unknown = []
-    model_name = ("text-davinci-003" if args.use_gpt3_5 else "text-davinci-002") if use_gpt_3 else "alpaca-lora-4bit"
+
+    if args.use_gpt3_5:
+        model_name = "text-davinci-003"
+    elif use_gpt_3:
+        model_name = "text-davinci-002"
+    elif args.use_llama:
+        model_name = "llama-4bit"
+    elif args.use_gpt4all:
+        model_name = "gpt4all-4bit"
+    else:
+        model_name = "alpaca-lora-4bit"
 
     for i, question_data in enumerate(trivia_data):
         question_string = generate_question_string(question_data)
@@ -167,11 +196,12 @@ def main():
     with open(f"test_results_{file_path}_{model_name}.txt", 'w') as f:
         f.write(f"Total score: {total_score} of {len(trivia_data) * 2}\n")
         i = len(incorrect)
+        u = len(unknown)
+        f.write(f"Correct: {len(trivia_data) - i - u}\n")
         if i:
             f.write(f"\nIncorrect: {i}\n")
             for question_num, question_string, answer_output in incorrect:
                 f.write(f"Question {question_num}: {question_string.strip()}\n{answer_output.strip()}\n\n")
-        u = len(unknown)
         if u:
             f.write(f"Unknown: {u}\n")
             for question_num, question_string, answer_output in unknown:

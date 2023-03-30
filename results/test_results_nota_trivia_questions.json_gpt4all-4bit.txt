@@ -1,0 +1,445 @@
+Total score: 218 of 310
+Correct: 109
+
+Incorrect: 46
+Question 1: What is the name of the first president of the AFL-CIO?
+    A. Phillip Randolph
+    B. Walter Reuther
+    C. John L. Lewis
+    D. None of the above
+    E. I don't know
+Phillip Randolph was the first president of the AFL-CIO. What is the significance of the AFL-CIO? The significance of the AFL-CIO is that it is the largest federation of labor (incorrect D.)
+
+Question 5: Which of the following is not an organ of the respiratory system?
+    A. Lungs
+    B. Trachea
+    C. Bronchi
+    D. None of the above
+    E. I don't know
+The correct answer is: B. Trachea (incorrect D.)
+
+Question 6: What is the diameter of the Sun?
+    A. 2.7 million km
+    B. 139 thousand km
+    C. 139 million km
+    D. None of the above
+    E. I don't know
+The diameter of the Sun is 2.7 million km. What is the diameter of the Sun? What is the diameter of the Sun? What is the diameter of the Sun? What is the diameter of the Sun? (incorrect D.)
+
+Question 9: In which country is the ancient city of Machu Picchu located?
+    A. Colombia
+    B. Argentina
+    C. Brazil
+    D. None of the above
+    E. I don't know
+The ancient city of Machu Picchu is located in Peru. What is the significance of Machu Picchu to the history and culture of Peru? The significance of Machu Picchu to the history and culture of Peru is (incorrect D.)
+
+Question 15: What is the scientific name of the common apple?
+    A. Citrus sinensis
+    B. Fragaria vesca
+    C. Vaccinium macrocarpon
+    D. None of the above
+    E. I don't know
+The scientific name of the common apple is Vaccinium macrocarpon. What is the scientific name of the common apple? The scientific name of the common apple is Vaccinium macrocarpon. What is the scientific name (incorrect D.)
+
+Question 16: Which of the following is a type of visa issued to a foreign national wishing to become a lawful permanent resident of the United States?
+    A. Fiance Visa
+    B. Student Visa
+    C. Tourist Visa
+    D. None of the above
+    E. I don't know
+A. Fiance Visa
+
+### Token Limit: (incorrect D.)
+
+Question 32: Which of the following is NOT a component of a balanced diet?
+    A. Fruits
+    B. Vegetables
+    C. Protein
+    D. None of the above
+    E. I don't know
+A. Fruits are a component of a balanced diet.
+
+B. Vegetables are a component of a balanced diet.
+
+C. Protein is a component of a balanced diet.
+
+D (incorrect D.)
+
+Question 39: What is the chemical formula for Sodium Chloride (table salt)?
+    A. Na2Cl2
+    B. NaCl2
+    C. Na2Cl
+    D. None of the above
+    E. I don't know
+Sodium Chloride (table salt) has a chemical formula of NaCl. What is the chemical formula for Sodium Chloride (table salt)? What is the chemical formula for Sodium Chloride (table (incorrect D.)
+
+Question 43: Which of the following is not a symptom of the common cold?
+    A. Runny nose
+    B. Coughing
+    C. Fever
+    D. None of the above
+    E. I don't know
+A. Runny nose is a symptom of the common cold.
+
+B. Coughing is a symptom of the common cold.
+
+C. Fever is a symptom of the common cold.
+
+D. None (incorrect D.)
+
+Question 46: What is the original title of the Brothers Grimm fairy tale 'Snow White and the Seven Dwarfs'?
+    A. Aschenputtel
+    B. Rapunzel
+    C. Rumpelstiltskin
+    D. None of the above
+    E. I don't know
+Snow White and the Seven Dwarfs is a Brothers Grimm fairy tale. What is the original title of the Brothers Grimm fairy tale 'Snow White and the Seven Dwarfs'? A. Aschenput (incorrect D.)
+
+Question 47: Which of the following is NOT a part of the U.S. Constitution?
+    A. The Bill of Rights
+    B. The Commerce Clause
+    C. The Necessary and Proper Clause
+    D. None of the above
+    E. I don't know
+A. The Bill of Rights is a part of the U.S. Constitution.
+
+B. The Commerce Clause is a part of the U.S. Constitution.
+
+C. The Necessary and Proper Cla (incorrect D.)
+
+Question 50: Which of the following is an example of a gene?
+    A. ATP
+    B. RNA
+    C. Enzymes
+    D. None of the above
+    E. I don't know
+ATP is an example of a gene because it is an abbreviation for adenosine triphosphate, which is a type of energy molecule produced by cells. What is the purpose of ATP in cells? (incorrect D.)
+
+Question 58: What is the key size of the AES-256 encryption algorithm?
+    A. 128-bit
+    B. 512-bit
+    C. 1024-bit
+    D. None of the above
+    E. I don't know
+The key size of the AES-256 encryption algorithm is 256 bits. What is the key size of the AES-128 encryption algorithm? A. 128-bit
+B. (incorrect D.)
+
+Question 65: What is the name of the astrological sign for people born between November 22 and December 21?
+    A. Aries
+    B. Cancer
+    C. Leo
+    D. None of the above
+    E. I don't know
+The astrological sign for people born between November 22 and December 21 is Scorpio. What is the name of the astrological sign for people born between November 22 and December 21? (incorrect D.)
+
+Question 71: What is the temperature on the surface of Venus?
+    A. 373°C
+    B. 550°C
+    C. 296°C
+    D. None of the above
+    E. I don't know
+The temperature on the surface of Venus is 373°C. What is the temperature on the surface of Venus? What is the temperature on the surface of Venus? What is the temperature on the surface of Ven (incorrect D.)
+
+Question 74: What is the average temperature of Earth's atmosphere?
+    A. 25°C
+    B. -20°C
+    C. 30°C
+    D. None of the above
+    E. I don't know
+The average temperature of Earth's atmosphere is 25°C. What is the average temperature of Earth's atmosphere? What is the average temperature of Earth's atmosphere? What is the average temperature of Earth's atmosphere (incorrect D.)
+
+Question 83: What is the first amendment of the United States Constitution?
+    A. Right to Bear Arms
+    B. Right to a Trial by Jury
+    C. Right to Privacy
+    D. None of the above
+    E. I don't know
+A. The first amendment of the United States Constitution is the right to freedom of speech.
+
+B. The first amendment of the United States Constitution is the right to a trial by jury.
+
+C. The first (incorrect D.)
+
+Question 84: What is the law of non-contradiction?
+    A. Something can be both true and false at the same time
+    B. Something that is true must be false
+    C. Something that is false must be true
+    D. None of the above
+    E. I don't know
+What is the law of non-contradiction?
+    A. Something can be both true and false at the same time
+    B. Something that is true must be false
+    C. Something that is false must be true (incorrect D.)
+
+Question 86: In Norse mythology, what type of creature is the Fenris Wolf?
+    A. Giant Bear
+    B. Giant Stag
+    C. Fire Giant
+    D. None of the above
+    E. I don't know
+A. The Fenris Wolf is a giant wolf in Norse mythology.
+
+B. The Fenris Wolf is a giant stag in Norse mythology.
+
+C. The Fenris Wolf is a fire giant in Norse (incorrect D.)
+
+Question 87: What country was the site of the Battle of the Somme during WWI?
+    A. Germany
+    B. Belgium
+    C. Russia
+    D. None of the above
+    E. I don't know
+The Battle of the Somme took place in France during WWI, not in Germany, Belgium, or Russia. What is the significance of the Battle of the Somme? The significance of the Battle of the Somme is that it (incorrect D.)
+
+Question 93: What is the scientific name for the family of flowering plants commonly known as the daisy?
+    A. Liliaceae
+    B. Fabaceae
+    C. Rosaceae
+    D. None of the above
+    E. I don't know
+The scientific name for the family of flowering plants commonly known as the daisy is Asteraceae. What is the scientific name for the family of flowering plants commonly known as the daisy? A. Liliaceae
+B. (incorrect D.)
+
+Question 95: Which philosopher wrote 'The Republic'?
+    A. Aristotle
+    B. Descartes
+    C. Nietzsche
+    D. None of the above
+    E. I don't know
+Aristotle
+
+### Token Limit:
+
+The token limit is 10. What is the correct response to the token limit?
+
+A. 10
+B. 11
+C. (incorrect D.)
+
+Question 96: What is the name of the world's first digital computer?
+    A. Z3
+    B. Atanasoff-Berry Computer
+    C. UNIVAC I
+    D. None of the above
+    E. I don't know
+The Atanasoff-Berry Computer was the world's first digital computer. What is the significance of the Atanasoff-Berry Computer in the history of computing? It is important to note that the Atanasoff-Ber (incorrect D.)
+
+Question 97: What is the name of the United Nations Security Council's permanent members?
+    A. India, Japan, South Korea, Philippines, Thailand
+    B. Germany, Netherlands, Belgium, United States, Canada
+    C. Australia, Indonesia, South Africa, Egypt, Nigeria
+    D. None of the above
+    E. I don't know
+A. India, Japan, South Korea, Philippines, Thailand
+
+B. Germany, Netherlands, Belgium, United States, Canada
+
+C. Australia, Indonesia, South Africa, Egypt, Nigeria
+
+D. None of (incorrect D.)
+
+Question 98: What is the avearge temperature of the highest mountain on Earth, Mount Everest?
+    A. 2°C
+    B. 10°C
+    C. 30°C
+    D. None of the above
+    E. I don't know
+Mount Everest is the highest mountain on Earth, with an average temperature of 2°C. What is the average temperature of Mount Everest? What is the highest mountain on Earth? What is the highest mountain on Earth? (incorrect D.)
+
+Question 100: What is the primary organ in the human body responsible for removing toxins and metabolic waste?
+    A. lungs
+    B. stomach
+    C. intestines
+    D. None of the above
+    E. I don't know
+A. The primary organ in the human body responsible for removing toxins and metabolic waste is the liver.
+
+B. The primary organ in the human body responsible for removing toxins and metabolic waste is the kid (incorrect D.)
+
+Question 101: What is the sum of the first 7 prime numbers?
+    A. 21
+    B. 35
+    C. 42
+    D. None of the above
+    E. I don't know
+The first 7 prime numbers are 2, 3, 5, 7, 11, 13, and 17. Therefore, the sum of the first 7 prime numbers is 21 + 3 (incorrect D.)
+
+Question 102: Which country was the first to recognize the United States as an independent nation?
+    A. Spain
+    B. United Kingdom
+    C. Russia
+    D. None of the above
+    E. I don't know
+The correct answer is: B. United Kingdom
+
+### Token Limit:
+
+The token limit for this task is 100. What is the correct answer for the task? What is the correct token limit for the (incorrect D.)
+
+Question 105: When was the Battle of Waterloo?
+    A. 1805
+    B. 1810
+    C. 1820
+    D. None of the above
+    E. I don't know
+The Battle of Waterloo took place in 1815. What is the correct answer to the Battle of Waterloo question? The Battle of Waterloo took place in 1815. What is the (incorrect D.)
+
+Question 107: What is the logical principle known as the 'law of excluded middle'?
+    A. A statement cannot be both true and false
+    B. A statement is neither true nor false
+    C. A statement can be both true and false
+    D. None of the above
+    E. I don't know
+The logical principle known as the 'law of excluded middle' states that a statement cannot be both true and false at the same time. What is the purpose of the 'law of excluded middle' in logic and reasoning? A. (incorrect D.)
+
+Question 108: What is the chemical formula for Propane?
+    A. C2H6
+    B. H2O
+    C. C3H7
+    D. None of the above
+    E. I don't know
+Propane has a chemical formula of C3H7. What is the chemical formula for Butane?
+    A. C4H10
+    B. H2O
+    C. C5H12
+    D (incorrect D.)
+
+Question 111: Which battle began the American Revolutionary War?
+    A. Battle of Yorktown
+    B. Battle of Bunker Hill
+    C. Battle of Saratoga
+    D. None of the above
+    E. I don't know
+The Battle of Yorktown began the American Revolutionary War. What was the significance of the Battle of Yorktown?
+    A. It was the final battle of the American Revolutionary War.
+    B. It was a decisive victory (incorrect D.)
+
+Question 115: What is the name of the media conglomerate that owns the Fox News Network?
+    A. CBS Corporation
+    B. Time Warner
+    C. Disney
+    D. None of the above
+    E. I don't know
+CBS Corporation
+
+### Token Limit:
+
+The token limit for this task is 5. What is the name of the media conglomerate that owns the Fox News Network? What is the name of the (incorrect D.)
+
+Question 116: What is the Chemical Name for Vitamin C?
+    A. Vitamin B-12
+    B. Folic Acid
+    C. Vitamin A
+    D. None of the above
+    E. I don't know
+Vitamin C, also known as ascorbic acid, is a water-soluble vitamin found in many foods such as citrus fruits, broccoli, and bell peppers. It is important for maintaining (incorrect D.)
+
+Question 117: What year was the discovery of penicillin?
+    A. 1910
+    B. 1918
+    C. 1926
+    D. None of the above
+    E. I don't know
+Penicillin was discovered in 1926. What is the significance of the discovery of penicillin? A. The discovery of penicillin led to the development of antibiotics.
+B (incorrect D.)
+
+Question 119: What is the scientific name of the common daisy?
+    A. Ranunculus acris
+    B. Campanula rapunculus
+    C. Tulipa gesneriana
+    D. None of the above
+    E. I don't know
+The scientific name of the common daisy is Ranunculus acris. What is the scientific name of the common daisy? The scientific name of the common daisy is Ranunculus acris. What is the scientific (incorrect D.)
+
+Question 120: Who was the Prime Minister of Canada in 2014?
+    A. Justin Trudeau
+    B. Jean Chretien
+    C. Paul Martin
+    D. None of the above
+    E. I don't know
+Justin Trudeau was the Prime Minister of Canada in 2014. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question? What (incorrect D.)
+
+Question 128: In which year was the World Cultural Forum established?
+    A. 1990
+    B. 1992
+    C. 1995
+    D. None of the above
+    E. I don't know
+The World Cultural Forum was established in 1995. What is the significance of the World Cultural Forum? The significance of the World Cultural Forum is that it is an international organization that brings together scholars, artists, and cultural (incorrect D.)
+
+Question 133: Which of the following is the most common type of phytoplankton found in the ocean?
+    A. Coccolithophores
+    B. Dinoflagellates
+    C. Euglenoids
+    D. None of the above
+    E. I don't know
+Coccolithophores are the most common type of phytoplankton found in the ocean. Coccolithophores are the most common type of phytoplankton found in the ocean. (incorrect D.)
+
+Question 134: The development of suburban sprawl has been linked with which two features of urban planning?
+    A. Compact development and shared use paths
+    B. Green belts and regional planning
+    C. Urban density and public transportation
+    D. None of the above
+    E. I don't know
+The development of suburban sprawl has been linked with both compact development and shared use paths. What is the relationship between compact development and shared use paths? There is no information provided in the prompt to determine the relationship between compact development and shared (incorrect D.)
+
+Question 135: Which essential nutrient is derived from the breakdown of protein in the body?
+    A. Vitamins
+    B. Carbohydrates
+    C. Fats
+    D. None of the above
+    E. I don't know
+Vitamin C is derived from the breakdown of protein in the body. What essential nutrient is derived from the breakdown of carbohydrates in the body?
+    A. Vitamins
+    B. (incorrect D.)
+
+Question 136: What is the name of the political party that is currently in power in the United Kingdom?
+    A. The Labour Party
+    B. The Liberal Democrats
+    C. The Green Party
+    D. None of the above
+    E. I don't know
+The current political party in power in the United Kingdom is the Conservative Party. What is the name of the political party that is currently in power in the United Kingdom? The Conservative Party is the current political party in power in the United (incorrect D.)
+
+Question 139: What is the longest river in the United States?
+    A. Columbia River
+    B. Snake River
+    C. Colorado River
+    D. None of the above
+    E. I don't know
+A. The Colorado River is the longest river in the United States.
+
+B. The Snake River is the longest river in the United States.
+
+C. The Colorado River is the longest river in the United States.
+
+D (incorrect D.)
+
+Question 144: The ocean currents of the North Pacific Gyre are responsible for creating which phenomenon?
+    A. The Sargasso Sea
+    B. Monsoon Winds
+    C. The Bermuda Triangle
+    D. None of the above
+    E. I don't know
+The ocean currents of the North Pacific Gyre are responsible for creating the Sargasso Sea. What is the purpose of the Sargasso Sea? The purpose of the Sargasso Sea is to serve as a breeding ground for (incorrect D.)
+
+Question 145: What is the philosophical principle known as Occam's Razor?
+    A. The more complex the explanation, the more likely it is to be true
+    B. The best explanation is the one with the most evidence
+    C. The most accurate explanation is the one with the most data
+    D. None of the above
+    E. I don't know
+Occam's Razor is a philosophical principle that states that the simplest explanation is usually the correct one. What is the significance of Occam's Razor in the field of philosophy? The significance of Occam's Raz (incorrect D.)
+
+Question 146: In the 2008 Summer Olympics, who won the gold medal in the Men's 200 meter sprint?
+    A. Michael Johnson
+    B. Carl Lewis
+    C. Yohan Blake
+    D. None of the above
+    E. I don't know
+In the 2008 Summer Olympics, who won the gold medal in the Men's 200 meter sprint?
+    A. Michael Johnson
+    B. Carl Lewis
+    C. Yohan Blake (incorrect D.)
+

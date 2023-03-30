@@ -5,8 +5,10 @@ import os
 import random
 import torch
 from transformers import GenerationConfig
-from autograd_4bit import load_llama_model_4bit_low_ram
+from autograd_4bit import load_llama_model_4bit_low_ram, Autograd4bitQuantLinear
 from tqdm import tqdm
+from peft import PeftModel
+from peft.tuners.lora import Linear4bitLt
 
 def query_openai_gpt(prompt, engine):
     while True:
@@ -56,7 +58,7 @@ def query_model(
             temperature=temperature,
             top_p=0.75,
             top_k=40,
-            num_beams=2,
+            num_beams=1,
             **kwargs,
         )
         with torch.no_grad():
@@ -81,12 +83,15 @@ def generate_trivia_questions(prompt, model, num_questions):
     if not use_gpt_3:
         config_path = './models/llama-7b-hf/'
         model_path = './weights/llama-7b-4bit.pt'
+        lora_path = './loras/alpaca7B-lora/'
         model, tokenizer = load_llama_model_4bit_low_ram(config_path, model_path)
+        model = PeftModel.from_pretrained(model, lora_path)
         print('Fitting 4bit scales and zeros to half')
         for n, m in model.named_modules():
-            if '4bit' in str(type(m)):
+            if isinstance(m, Autograd4bitQuantLinear) or isinstance(m, Linear4bitLt):
                 m.zeros = m.zeros.half()
                 m.scales = m.scales.half()
+                m.bias = m.bias.half()
 
     with tqdm(total=num_questions, desc="Generating trivia questions") as pbar:
         while len(questions) < num_questions:

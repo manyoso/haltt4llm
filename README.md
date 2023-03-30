@@ -5,13 +5,14 @@ in widespread adoption of LLM's for real world purposes.
 
 ## Results (as of March 2023) 
 
-| Model Name            | HQ Trivia | C   | IDK | Fake Questions | C   | NOTA Questions | C  | IDK |
-|-----------------------|-----------|-----|-----|----------------|-----|----------------|----|-----|
-| **GPT-3.5**           | 59.33%    | 705 | 262 | 81.81%         | 342 | 51.93%         | 58 | 45  |
-| **GPT-3**             | 55.67%    | 776 | 17  | 6.10%          | 26  | 32.25%         | 43 | 14  |
-| **AlpacaLora-7B-4bit**| 49.75%    | 701 | 0   | 2.15%          | 18  | 8.38%          | 26 | 0   |
-| **GPT-4**             |           |     |     |                |     |                |    |     |
-| **GPT4All**           |           |     |     |                |     |                |    |     |
+| Model Name            | HQ Trivia | C    | IDK | Fake Questions | C   | NOTA Questions | C   | IDK |
+|-----------------------|-----------|------|-----|----------------|-----|----------------|-----|-----|
+| **GPT4All**           | **88.47%**| 1243 | 7   | 74.16%         | 310 | **70.32%**     | 109 | 0   |
+| **GPT-3.5**           | 59.33%    | 705  | 262 | **81.81%**     | 342 | 51.93%         | 58  | 45  |
+| **GPT-3**             | 55.67%    | 776  | 17  | 6.10%          | 26  | 32.25%         | 43  | 14  |
+| **Llama-7B-4bit**     | 49.75%    | 701  | 0   | 2.15%          | 18  | 8.38%          | 26  | 0   |
+| **Alpaca-7B-4bit**    | 44.32%    | 624  | 1   | 0.00%          | 0   | 0.00%          | 0   | 0   |
+| **GPT-4**             |           |      |     |                |     |                |     |     |
 
 * **C** *number of correct answers*
 * **IDK** *number of 'I don't know' answers*
@@ -93,11 +94,11 @@ say it is because of the hallucination mitigation techniques OpenAI must
 have employed between GPT-3 and GPT-3.5.
 
 When it comes to uncertainty and handling hallucinations it is clear that
-both gpt models are far and away superior to Alpaca Lora 7B which does not
-admit uncertainty under any circumstance. This is in keeping with qualitative
-first hand experience of many human users who report a marked increase in
-hallucinations from the Stanford Alpaca derived models in comparison to
-the OpenAI models.
+both gpt models are far and away superior to Llama 7B and Alpaca Lora which
+does not admit uncertainty under any circumstance. This is in keeping with
+qualitative first hand experience of many human users who report a marked
+increase in hallucinations from the Stanford Alpaca derived models in comparison
+to the OpenAI models.
 
 On the positive side, the overall score of correct answers on the real HQ
 Trivia test for Alpaca Lora 7B was very decent in comparison to GPT-3. Alpaca
@@ -106,6 +107,12 @@ trying to generate new questions instead of answering them in a clear enough
 matter that doesn't require a more complex regex or parser. It's possible
 that training alpaca on test taking in this format would provide a modest
 boost to the score.
+
+The amazing standout is the new GP4All model which was trained on ~800k new
+prompts generated from GPT-3.5 output. In fact, this model is outscoring
+GPT-3.5 itself on the real trivia set by a wide margin and still managing
+to finish second in the fake hallucination test with a very respectable
+74.16% correct!
 
 In the future it will be interesting to see how GPT-4 fares in comparison
 to GPT-3.5 with this test. Also, would be nice to establish a baseline for
@@ -134,6 +141,7 @@ directory for the take_test.py to find the model correctly.
 python download-model.py --text-only decapoda-research/llama-7b-hf
 wget https://huggingface.co/decapoda-research/llama-7b-hf-int4/resolve/main/llama-7b-4bit.pt -P ./weights
 python download-model.py samwit/alpaca7B-lora
+python download-model.py nomic-ai/gpt4all-lora
 ```
 
 ## Examples for running the tests

@@ -1,0 +1,1794 @@
+Total score: 2493 of 2818
+Correct: 1243
+
+Incorrect: 159
+Question 10: What was the first product to have its barcode scanned at purchase?
+    A. Rubik’s Cube
+    B. Wrigley's chewing gum
+    C. Apple IIe
+    D. None of the above
+    E. I don't know
+Apple IIe was the first product to have its barcode scanned at purchase. What was the first product to have its barcode scanned at purchase? What was the first product to have its barcode scanned at purchase? (incorrect B.)
+
+Question 19: New Mexico exempts which group of people from paying state income taxes?
+    A. Hybrid car owners
+    B. Centenarians
+    C. Registered lobbyists
+    D. None of the above
+    E. I don't know
+New Mexico exempts hybrid car owners from paying state income taxes. What is the purpose of the instruction? The purpose of the instruction is to provide information on which group of people is exempt from paying state income (incorrect B.)
+
+Question 41: What costume was worn by the original lead singer of the Village People?
+    A. Cowboy
+    B. Policeman
+    C. Construction worker
+    D. None of the above
+    E. I don't know
+The original lead singer of the Village People wore a cowboy costume. What is the significance of the cowboy costume worn by the original lead singer of the Village People? The significance of the cowboy costume worn by the original (incorrect B.)
+
+Question 42: A spork is a utensil that combines what two things?
+    A. Spam / pork
+    B. Sponge / cork
+    C. Spoon / fork
+    D. None of the above
+    E. I don't know
+A spork is a utensil that combines a spoon and a fork. What is the purpose of a spork? A spork is a utensil that combines a spoon and a fork. The purpose of (incorrect C.)
+
+Question 44: In 2017, what did Twitter do to its 140-character limit on tweets?
+    A. Double it
+    B. Halve it
+    C. Reduce it to 15
+    D. None of the above
+    E. I don't know
+In 2017, Twitter doubled its 140-character limit on tweets. What is the significance of Twitter doubling its 140-character limit on tweets in 2017? (incorrect A.)
+
+Question 51: After Prince Edward Island, what is Canada’s most densely populated province?
+    A. New Brunswick
+    B. Ontario
+    C. Nova Scotia
+    D. None of the above
+    E. I don't know
+Canada's most densely populated province is New Brunswick. What is the correct answer to the following question: Which of the following statements is true?
+    A. Prince Edward Island is Canada's most densely populated province (incorrect C.)
+
+Question 55: Pantene Pro-V and Garnier Fructis are popular types of what?
+    A. ShamWow
+    B. Shampoo
+    C. Champagne
+    D. None of the above
+    E. I don't know
+Pantene Pro-V and Garnier Fructis are popular types of hair care products. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question (incorrect B.)
+
+Question 83: In which country is GeoCities still up and running?
+    A. Canada
+    B. Japan
+    C. Australia
+    D. None of the above
+    E. I don't know
+GeoCities is still up and running in Canada.
+
+### Token Limit:
+
+The token limit for this task is 10. What is the correct response to the task? A. GeoCities (incorrect B.)
+
+Question 84: Before the lyrics are sung, how many finger snaps are heard in the “Addams Family” theme song?
+    A. 12 snaps
+    B. 6 snaps
+    C. 8 snaps
+    D. None of the above
+    E. I don't know
+There are 12 finger snaps heard in the “Addams Family” theme song. What is the significance of the number 12 in the “Addams Family” theme song? There is no specific information provided in the prompt (incorrect A.)
+
+Question 86: The Olympic logo features what combination of shapes?
+    A. Two triangles
+    B. Five rings
+    C. Seven parabolas
+    D. None of the above
+    E. I don't know
+The Olympic logo features two triangles. (incorrect B.)
+
+Question 87: The Italian cooking term “al dente” means what?
+    A. Firm
+    B. With butter
+    C. Salted
+    D. None of the above
+    E. I don't know
+The Italian cooking term “al dente” means “to the tooth” in Italian, which means that the pasta should be cooked until it is tender but not too soft. What is the significance of the Italian cooking term (incorrect A.)
+
+Question 90: Which of these countries legally guarantees its citizens “freedom to roam”?
+    A. Brazil
+    B. Sweden
+    C. Mongolia
+    D. None of the above
+    E. I don't know
+Brazil
+
+### Keep Token Limit Low:
+
+Brazil
+
+### Keep Token Limit Low:
+
+Brazil
+
+### Keep Token Limit Low:
+
+Brazil (incorrect B.)
+
+Question 100: Which American car manufacturer first introduced seat belts?
+    A. Jeep
+    B. Ford
+    C. Nash
+    D. None of the above
+    E. I don't know
+Ford was the first American car manufacturer to introduce seat belts in 1941. What is the significance of Ford's introduction of seat belts in 1941? It is important to note that Ford (incorrect C.)
+
+Question 105: Which term is shorthand for a useful item when changing a flat tire?
+    A. Surplus
+    B. Spare
+    C. Supplement
+    D. None of the above
+    E. I don't know
+To change a flat tire, you will need a tire iron. What is the purpose of a tire iron? To change a flat tire, you will need a tire iron. What is the purpose of a t (incorrect B.)
+
+Question 114: Which of these countries has a lower gross domestic product than any U.S. state?
+    A. Ecuador
+    B. Uzbekistan
+    C. Iceland
+    D. None of the above
+    E. I don't know
+Ecuador has a lower gross domestic product than any U.S. state. (incorrect C.)
+
+Question 135: Which of these songs was NOT recorded by the Beach Boys?
+    A. Surf's Up
+    B. Surf City
+    C. Surfer Girl
+    D. None of the above
+    E. I don't know
+The Beach Boys recorded "Surfer Girl" in 1963. What is the significance of the Beach Boys' recording "Surfer Girl" in 1963? The Beach Boys' recording "Surfer Girl" (incorrect B.)
+
+Question 141: Which author's Pulitzer Prize-winning novel was adapted into a Broadway musical?
+    A. Jane Smiley
+    B. Annie Proulx
+    C. Alice Walker
+    D. None of the above
+    E. I don't know
+A. Jane Smiley
+
+### Keep Token Limit Low:
+
+A. Jane Smiley
+
+### Keep Token Limit Low:
+
+B. Annie Proulx
+
+### Keep Token Limit Low (incorrect C.)
+
+Question 145: The author who created Tarzan once worked for which of these publications?
+    A. Sports Illustrated
+    B. Paris Review
+    C. Sears catalog
+    D. None of the above
+    E. I don't know
+Tarzan was created by Edgar Rice Burroughs, who also wrote the Tarzan of the Apes and Tarzan of the Seas novels. What is the correct answer to the following question: (incorrect C.)
+
+Question 153: Which of these North American deserts is the smallest?
+    A. Sonoran Desert
+    B. Mojave Desert
+    C. Chihuahuan Desert
+    D. None of the above
+    E. I don't know
+The Chihuahuan Desert is the smallest of the North American deserts.
+
+### Token Limit:
+
+The response to the request should only include the token "The Chihuahuan Desert is the smallest (incorrect B.)
+
+Question 156: The first official African-American fraternity was founded at what university?
+    A. Howard
+    B. Clemson
+    C. Cornell
+    D. None of the above
+    E. I don't know
+The first official African-American fraternity was founded at Howard University. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question? What is the correct (incorrect C.)
+
+Question 159: Which U.S. coin features a portrait of Abraham Lincoln?
+    A. Kennedy half-dollar
+    B. Buffalo nickel
+    C. Penny
+    D. None of the above
+    E. I don't know
+A. The correct response to the instruction is 'C'.
+
+B. The correct response to the instruction is 'D'.
+
+C. The correct response to the instruction is 'E'.
+
+D. The correct response to the instruction (incorrect C.)
+
+Question 167: What math concept is traditionally notated by a tall, S-shaped curve?
+    A. Second derivative
+    B. Series
+    C. Integral
+    D. None of the above
+    E. I don't know
+A. The tall, S-shaped curve is traditionally notated as a series.
+
+B. The tall, S-shaped curve is traditionally notated as a second derivative.
+
+C. The tall, S- (incorrect C.)
+
+Question 181: In July of 2017, Joey Chestnut set a world record by consuming 72 what?
+    A. Pickles
+    B. Hot dogs
+    C. Raw oysters
+    D. None of the above
+    E. I don't know
+In July of 2017, Joey Chestnut set a world record by consuming 72 raw oysters. What is the significance of Joey Chestnut's world record in July of 20 (incorrect B.)
+
+Question 211: How is the first name of the lead actor of “The English Patient” pronounced?
+    A. “Rolf”
+    B. “Rafe”
+    C. “Ralf”
+    D. None of the above
+    E. I don't know
+The first name of the lead actor of “The English Patient” is pronounced as “Rolf”. What is the significance of the first name of the lead actor of “The English Patient”? The significance of the first name (incorrect B.)
+
+Question 225: Microblading eyebrows essentially consists of doing what?
+    A. Drawing them in
+    B. Trimming them
+    C. Plucking them
+    D. None of the above
+    E. I don't know
+Microblading eyebrows essentially consists of tattooing them. What is the purpose of microblading eyebrows? To tattoo them. What is the purpose of microblading eyeb (incorrect A.)
+
+Question 226: What rating does Dudley Moore give Bo Derek’s character in the film “10”?
+    A. Higher than ten
+    B. Lower than ten
+    C. Ten
+    D. None of the above
+    E. I don't know
+Dudley Moore gives Bo Derek's character in the film "10" a rating of 10. What is the significance of the rating Dudley Moore gives Bo Derek's character in the film "10 (incorrect A.)
+
+Question 239: Which philosopher directly inspired many of the lyrics on Radiohead’s “OK Computer”?
+    A. Friedrich Nietzsche
+    B. Adam Smith
+    C. Noam Chomsky
+    D. None of the above
+    E. I don't know
+Adam Smith directly inspired many of the lyrics on Radiohead’s “OK Computer.” What is the significance of Radiohead's "OK Computer" album? The significance of Radiohead's "OK Computer" album is that (incorrect C.)
+
+Question 249: Which of these terms does NOT refer to a sea slug?
+    A. Sea pig
+    B. Sea hare
+    C. Nudibranch
+    D. None of the above
+    E. I don't know
+A. A sea slug is a type of marine invertebrate that lives in the ocean.
+
+B. A sea hare is a type of marine invertebrate that lives in the ocean.
+
+C. A n (incorrect A.)
+
+Question 256: Which band featured a regular didgeridoo player?
+    A. Dexys Midnight Runners
+    B. Jamiroquai
+    C. O.A.R.
+    D. None of the above
+    E. I don't know
+Dexys Midnight Runners
+
+### Token Limit:
+
+###
+
+### Token Limit:
+
+###
+
+### Token Limit:
+
+###
+
+### Token Lim (incorrect B.)
+
+Question 259: The cooking technique now known as tempura originated in which of these places?
+    A. Hawaii
+    B. South Korea
+    C. Portugal
+    D. None of the above
+    E. I don't know
+The cooking technique now known as tempura originated in Japan. What is the correct answer to the following question? What is the correct answer to the following question? What is the correct answer to the following question? What is (incorrect C.)
+
+Question 265: “Go Blue!” is the rallying cry of what university’s sports team?
+    A. U of Michigan
+    B. Michigan State
+    C. Ohio State
+    D. None of the above
+    E. I don't know
+The University of Michigan's sports team is known as the Wolverines. What is the rallying cry of the University of Michigan's sports team? The University of Michigan's sports team is known as the Wolverines (incorrect A.)
+
+Question 269: Which of these poets' best-known works is a villanelle?
+    A. Robert Frost
+    B. Dylan Thomas
+    C. T.S. Eliot
+    D. None of the above
+    E. I don't know
+A villanelle is a type of poem that follows a specific rhyme scheme and meter. The best-known works of a poet are those that are widely recognized and appreciated by the public. Robert Frost's best-known works include " (incorrect B.)
+
+Question 270: Which of these states does NOT have an official governor’s mansion?
+    A. Alaska
+    B. Idaho
+    C. South Dakota
+    D. None of the above
+    E. I don't know
+The correct answer is: D. None of the above.
+
+This is because none of the states listed have an official governor's mansion. What is the purpose of a governor's mansion? The purpose of a governor (incorrect B.)
+
+Question 274: What university’s mascot is a cartoonish clergy member?
+    A. UC San Diego
+    B. Wake Forest
+    C. Notre Dame
+    D. None of the above
+    E. I don't know
+The University of Notre Dame's mascot is a cartoonish clergy member. What is the significance of the University of Notre Dame's mascot being a cartoonish clergy member? The significance of the University (incorrect B.)
+
+Question 278: Which state’s capital is likely named for a Native American word meaning “good place to dig potatoes”?
+    A. Missouri
+    B. Kansas
+    C. Arkansas
+    D. None of the above
+    E. I don't know
+The capital of Missouri is likely named for a Native American word meaning “good place to dig potatoes.”
+
+### Token Limit:
+
+The token limit for this task is 10. What is the correct response to the (incorrect B.)
+
+Question 295: Which of these liquids comes from an udder?
+    A. Milk
+    B. Apple juice
+    C. Coffee
+    D. None of the above
+    E. I don't know
+Apple juice comes from an udder. What is the purpose of the token limit in this task? To complete the request, you must only answer the question. What is the purpose of the token limit in this task? (incorrect A.)
+
+Question 299: Which website did the New York Times call “the people’s National Endowment for the Arts”?
+    A. Pinterest
+    B. Etsy
+    C. Kickstarter
+    D. None of the above
+    E. I don't know
+The New York Times called Pinterest the people's National Endowment for the Arts. What is the significance of Pinterest being called the people's National Endowment for the Arts by the New York Times? The (incorrect C.)
+
+Question 302: What was the first video game to call Mario by the name Mario?
+    A. Donkey Kong
+    B. Wrecking Crew
+    C. Donkey Kong, Jr.
+    D. None of the above
+    E. I don't know
+Mario was first introduced in the 1981 video game Donkey Kong. What was the first video game to call Mario by the name Mario? What was the first video game to call Mario by the name Mario? What (incorrect C.)
+
+Question 305: “Chestnut” and “button” are types of which ingredient?
+    A. Grape
+    B. Carrot
+    C. Mushroom
+    D. None of the above
+    E. I don't know
+A. Chestnuts and buttons are types of chestnuts.
+
+B. Chestnuts and buttons are types of chestnuts.
+
+C. Chestnuts and buttons are types of chestn (incorrect C.)
+
+Question 307: Which character does Jude Law play in the movie “King Arthur: Legend of the Sword”?
+    A. Vortigern
+    B. Uther Pendragon
+    C. King Arthur
+    D. None of the above
+    E. I don't know
+Jude Law plays the role of King Arthur in the movie “King Arthur: Legend of the Sword”. What is the significance of the character Jude Law plays in the movie “King Arthur: Legend of the Sword (incorrect A.)
+
+Question 317: Which Justin Timberlake hit contains the line "she's flawless like some uncut ice"?
+    A. Lovestoned
+    B. Senorita
+    C. Like I Love you
+    D. None of the above
+    E. I don't know
+Justin Timberlake's hit "Senorita" contains the line "she's flawless like some uncut ice". What is the significance of the line "she's flawless like some uncut (incorrect A.)
+
+Question 321: Since 2004, the World Chess Federation has had its headquarters in which city?
+    A. Oslo
+    B. Geneva
+    C. Athens
+    D. None of the above
+    E. I don't know
+The World Chess Federation has had its headquarters in Geneva, Switzerland since 2004. What is the correct answer to the question? The World Chess Federation has had its headquarters in Geneva, Switzerland since 20 (incorrect C.)
+
+Question 322: Where did the budget retailer Poundland open its first store in 1990?
+    A. Basildon
+    B. Blackpool
+    C. Burton-upon-Trent
+    D. None of the above
+    E. I don't know
+The budget retailer Poundland opened its first store in 1990 in Basildon. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to (incorrect C.)
+
+Question 326: Which of these figures is known as “The History Guy” on social media?
+    A. David Starkey
+    B. Dan Snow
+    C. Simon Schama
+    D. None of the above
+    E. I don't know
+The History Guy on social media is Simon Schama. What is the significance of the History Guy on social media? The History Guy on social media is Simon Schama. What is the significance of the History Guy on social media? (incorrect B.)
+
+Question 329: For which movie did Tom Hanks receive his most recent acting Oscar nomination?
+    A. Cast Away
+    B. Captain Phillips
+    C. Bridge of Spies
+    D. None of the above
+    E. I don't know
+Tom Hanks received his most recent acting Oscar nomination for his portrayal of Captain Richard Phillips in the 2013 film "Captain Phillips." What is the correct answer to the following question? What is the (incorrect A.)
+
+Question 331: Which of these countries has the fewest land borders with other countries?
+    A. France
+    B. Poland
+    C. Austria
+    D. None of the above
+    E. I don't know
+Austria has the fewest land borders with other countries.
+
+### Token Limit:
+
+The token limit for this task is 5. What is the token limit for this task? The token limit for this task (incorrect B.)
+
+Question 333: In total, Britain has just over 9,800 miles of which of the following?
+    A. Railways
+    B. Motorways
+    C. Canals
+    D. None of the above
+    E. I don't know
+Britain has just over 9,800 miles of motorways. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question? What is (incorrect A.)
+
+Question 342: Which company provided audio equipment that helped Disney produce “Fantasia”?
+    A. Bang &amp; Olufsen
+    B. Hewlett-Packard
+    C. Dolby Laboratories
+    D. None of the above
+    E. I don't know
+Bang &amp; Olufsen
+
+### Keep Token Limit Low:
+
+Keep Token Limit Low:
+
+### Token Limit:
+
+Token Limit:
+
+### Token Limit: (incorrect B.)
+
+Question 343: Which nation does NOT have land on the island of Borneo?
+    A. Malaysia
+    B. Indonesia
+    C. Myanmar
+    D. None of the above
+    E. I don't know
+Malaysia has land on the island of Borneo.
+
+### Keep Token Limit Low:
+
+Malaysia has land on the island of Borneo.
+
+### Keep Token Limit Low:
+
+Malays (incorrect C.)
+
+Question 344: Which Billy Joel album opens with a sound effect that’s appropriate to its title?
+    A. Storm Front
+    B. Turnstiles
+    C. Glass Houses
+    D. None of the above
+    E. I don't know
+Billy Joel's album "Storm Front" opens with a sound effect that's appropriate to its title.
+
+### Token Limit:
+
+The token limit for this task is 100.
+
+## (incorrect C.)
+
+Question 348: Which planet is famous for its massive and picturesque rings?
+    A. Venus
+    B. Saturn
+    C. Mercury
+    D. None of the above
+    E. I don't know
+Venus is famous for its massive and picturesque rings.
+
+### Token Limit:
+
+The token limit is low.
+
+### Keep Token Limit:
+
+The keep token limit is low.
+
+## (incorrect B.)
+
+Question 349: Which pair of countries can be found on the Horn of Africa?
+    A. Egypt / Ethiopia
+    B. Ethiopia / Eritrea
+    C. Eritrea / Egypt
+    D. None of the above
+    E. I don't know
+Egypt and Ethiopia can be found on the Horn of Africa. What is the significance of the Horn of Africa in world history? The significance of the Horn of Africa in world history is that it is a region of strategic importance (incorrect B.)
+
+Question 371: The skincare brand Aesop shares its name with a legendary what?
+    A. Fabulist
+    B. King
+    C. Farmer
+    D. None of the above
+    E. I don't know
+A. Aesop is a brand of skincare products that is named after a legendary figure.
+
+B. Aesop is a brand of skincare products that is named after a legendary figure.
+
+C. (incorrect A.)
+
+Question 374: Which company’s 2012 smartphones included Beats Audio technology?
+    A. Samsung
+    B. Apple
+    C. HTC
+    D. None of the above
+    E. I don't know
+Samsung's 2012 smartphones included Beats Audio technology. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question? What (incorrect C.)
+
+Question 391: The only rock song to exit our solar system in hard-copy form is by what artist?
+    A. The Beatles
+    B. Chuck Berry
+    C. Little Richard
+    D. None of the above
+    E. I don't know
+The only rock song to exit our solar system in hard-copy form is by The Beatles. What is the significance of the only rock song to exit our solar system in hard-copy form being by The Beatles? The only rock (incorrect B.)
+
+Question 399: Which of these nations does NOT lie on the Gulf of Bothnia?
+    A. Sweden
+    B. Finland
+    C. Estonia
+    D. None of the above
+    E. I don't know
+Sweden lies on the Gulf of Bothnia. (incorrect C.)
+
+Question 402: The most common English word that ends in “-mt” is closely tied to which activity?
+    A. Eating
+    B. Bathing
+    C. Sleeping
+    D. None of the above
+    E. I don't know
+The most common English word that ends in “-mt” is closely tied to the activity of eating. How do you know? There is no information provided in the prompt to determine the most common English word that ends in “-mt (incorrect C.)
+
+Question 408: According to the U.S. government, which of these is correct?
+    A. Daylight Saving Time
+    B. Daylight Savings Time
+    C. Daylight Saving's Time
+    D. None of the above
+    E. I don't know
+According to the U.S. government, Daylight Saving's Time is correct. What is the purpose of Daylight Saving's Time in the U.S.? The purpose of Daylight Saving's (incorrect A.)
+
+Question 423: What was the first Disney Channel series to run for 100 episodes?
+    A. Even Stevens
+    B. Kim Possible
+    C. That's So Raven
+    D. None of the above
+    E. I don't know
+The first Disney Channel series to run for 100 episodes was Even Stevens. What was the first Disney Channel series to run for 100 episodes? What was the first Disney Channel series to run for 100 episodes (incorrect C.)
+
+Question 445: Which animal does NOT appear on the St. Louis Cardinals' 2011 World Series rings?
+    A. Bird
+    B. Squirrel
+    C. Snake
+    D. None of the above
+    E. I don't know
+A. The St. Louis Cardinals' 2011 World Series rings do not feature any animals.
+
+B. The St. Louis Cardinals' 2011 World Series rings do not feature any animals. (incorrect C.)
+
+Question 458: Which of these condiments was created by a monarch's personal chef?
+    A. Sriracha
+    B. Grey Poupon
+    C. A.1.
+    D. None of the above
+    E. I don't know
+A. Sriracha
+
+### Token Limit:
+
+###
+
+A. Sriracha
+
+###
+
+A. Sriracha
+
+###
+
+A. Sriracha
+
+### (incorrect C.)
+
+Question 466: According to the National Weather Service, what differentiates a blizzard from a snowstorm?
+    A. Strength of wind
+    B. 
+    D. None of the above
+    E. I don't know
+According to the National Weather Service, a blizzard is characterized by strong winds, while a snowstorm is characterized by the accumulation of snow. What is the purpose of the National Weather Service? To (incorrect A.)
+
+Question 472: Before creating his own successful fast food operation, Dave Thomas worked for what chain?
+    A. McDonald's
+    B. Burger King
+    C. KFC
+    D. None of the above
+    E. I don't know
+Dave Thomas worked for Wendy's, which is a chain of fast food restaurants. What is the significance of Wendy's in the fast food industry? Wendy's is a chain of fast food restaurants that is (incorrect C.)
+
+Question 496: What did the “S” in Ulysses S. Grant’s name stand for?
+    A. Samuel
+    B. Nothing
+    C. Stewart
+    D. None of the above
+    E. I don't know
+Ulysses S. Grant's full name was Ulysses Simpson Grant. What is the significance of the “S” in Ulysses S. Grant's full name? The significance of the “S (incorrect B.)
+
+Question 499: Which of these shows has NOT won a Golden Globe?
+    A. Jane the Virgin
+    B. Shameless
+    C. Crazy Ex-Girlfriend
+    D. None of the above
+    E. I don't know
+Jane the Virgin has won a Golden Globe. (incorrect B.)
+
+Question 512: Which of these sports has the most players per team?
+    A. Women's lacrosse
+    B. Australian football
+    C. Rugby union
+    D. None of the above
+    E. I don't know
+Women's lacrosse has the most players per team.
+
+### Token Limit:
+
+The token limit is low.
+
+### Keep Token Limit:
+
+Keep the token limit low. (incorrect B.)
+
+Question 513: What phrase does NOT appear in the lyrics of the rock classic “American Pie?”
+    A. Dirges in the dark
+    B. Barefoot servants
+    C. Fists of rage
+    D. None of the above
+    E. I don't know
+A. The phrase "I can't take it anymore" appears in the lyrics of the rock classic “American Pie.”
+
+B. The phrase "I can't take it anymore" does not appear in the lyrics of the (incorrect B.)
+
+Question 529: Among U.S. state capitals, what is unique about Vermont’s?
+    A. Only French name
+    B. Farthest north
+    C. Least populated
+    D. None of the above
+    E. I don't know
+Vermont's state capital is Montpelier, which is unique in that it is the only state capital in the United States that is not located on a river or a lake. What is the correct answer to the following question: (incorrect C.)
+
+Question 565: Which of these states does NOT currently have an In-N-Out?
+    A. New Mexico
+    B. Utah
+    C. Arizona
+    D. None of the above
+    E. I don't know
+In-N-Out is a popular fast-food chain that has locations in California, Nevada, and Texas. It does not currently have a location in any of the other states listed. What is the purpose of a token limit? (incorrect A.)
+
+Question 567: Which of these screenwriters once co-wrote the script for a flop SNL film?
+    A. Aaron Sorkin
+    B. Quentin Tarantino
+    C. Carrie Fisher
+    D. None of the above
+    E. I don't know
+A. Aaron Sorkin
+
+### Token Limit:
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+## (incorrect B.)
+
+Question 582: What term is often used to describe overly ornate, flowery writing?
+    A. Blue prose
+    B. Purple prose
+    C. Violet prose
+    D. None of the above
+    E. I don't know
+Violet prose is a term that is often used to describe overly ornate, flowery writing. What is the purpose of keeping the token limit low? To keep the token limit low means to ensure that the number of tokens (incorrect B.)
+
+Question 591: Which of these is NOT the name of a geographical feature on the Moon?
+    A. Foaming Sea
+    B. Sunset Sea
+    C. Sea of Waves
+    D. None of the above
+    E. I don't know
+The correct answer is D. None of the above. What is the purpose of a token limit? To complete the request, a token limit is necessary to ensure that the response is appropriately completed. What is the purpose of a token (incorrect B.)
+
+Question 600: Who is the youngest current Supreme Court Justice?
+    A. Elena Kagan
+    B. Sonia Sotomayor
+    C. Neil Gorsuch
+    D. None of the above
+    E. I don't know
+Sonia Sotomayor
+
+### Token Limit:
+
+The token limit for this task is 100. What is the correct response to the task? A. Sonia Sotomayor (incorrect C.)
+
+Question 620: In the U.S., a massive amount of gold is kept where?
+    A. Frozen food aisle
+    B. Fort Knox
+    C. Louisiana swamplands
+    D. None of the above
+    E. I don't know
+In the U.S., a massive amount of gold is kept in the vaults of the Federal Reserve Bank. What is the purpose of keeping a massive amount of gold in the vaults of the Federal Reserve Bank? The purpose (incorrect B.)
+
+Question 629: What distinction does airline Handley Page Transport have?
+    A. First inflight movie
+    B. First to serve a meal
+    C. First to check a bag
+    D. None of the above
+    E. I don't know
+A. Handley Page Transport was the first airline to offer inflight movies.
+
+B. Handley Page Transport was the first airline to serve a meal.
+
+C. Handley Page Transport was the first airline (incorrect B.)
+
+Question 685: Which of these countries has outlawed beauty pageants for kids?
+    A. Canada
+    B. Finland
+    C. France
+    D. None of the above
+    E. I don't know
+Canada has outlawed beauty pageants for kids.
+
+### Token Limit:
+
+Canada has outlawed beauty pageants for kids.
+
+### Token Limit:
+
+Canada has out (incorrect C.)
+
+Question 698: Which city did Mary-Kate and Ashley Olsen NOT travel to in their straight-to-video oeuvre?
+    A. Sydney
+    B. Salt Lake City
+    C. Milan
+    D. None of the above
+    E. I don't know
+Mary-Kate and Ashley Olsen did not travel to any of the cities mentioned in the instruction. What is the purpose of the instruction? The purpose of the instruction is to provide a task for someone to complete. (incorrect C.)
+
+Question 704: Which work by Roald Dahl was adapted into a 3-act opera in 1998?
+    A. Matilda
+    B. James &amp; the Giant Peach
+    C. The Fantastic Mr. Fox
+    D. None of the above
+    E. I don't know
+A. Matilda
+
+### Keep Token Limit Low:
+
+A. Keep Token Limit Low
+
+### Token Limit:
+
+A. Token Limit
+
+### Token Limit:
+
+A. (incorrect C.)
+
+Question 708: The mockingbird is NOT the state bird of which of these states?
+    A. Texas
+    B. Arkansas
+    C. Alabama
+    D. None of the above
+    E. I don't know
+The mockingbird is the state bird of Texas. What is the correct response to the question? The mockingbird is the state bird of Texas. What is the correct response to the question? The mockingbird is the (incorrect C.)
+
+Question 710: What was Neil Armstrong’s most famous achievement?
+    A. Learning French
+    B. Eating 14 cupcakes
+    C. Walking on the moon
+    D. None of the above
+    E. I don't know
+Neil Armstrong was the first person to walk on the moon. What was Neil Armstrong's most famous achievement? A. Learning French
+B. Eating 14 cupcakes
+C. Walking on the (incorrect C.)
+
+Question 728: The dinosaur genus Zuul gets its name from what film franchise?
+    A. Jurassic Park
+    B. The Land Before Time
+    C. Ghostbusters
+    D. None of the above
+    E. I don't know
+The dinosaur genus Zuul gets its name from the film franchise Jurassic Park. How do you know? There is no information provided in the instruction or response to determine which film franchise the dinosaur genus Zuul (incorrect C.)
+
+Question 731: In his first-ever video game appearance, Mario had what profession?
+    A. Chef
+    B. Carpenter
+    C. Plumber
+    D. None of the above
+    E. I don't know
+In his first-ever video game appearance, Mario had the profession of __________. What is the profession of Mario in his first-ever video game appearance? What is the profession of Mario in his first-ever video game appearance? (incorrect B.)
+
+Question 735: Which university’s marching band has a giant instrument that used to be radioactive?
+    A. U of Chicago
+    B. Purdue
+    C. U of Texas
+    D. None of the above
+    E. I don't know
+The University of Chicago's marching band has a giant instrument that used to be radioactive. What is the significance of the giant instrument used by the University of Chicago's marching band? The significance of the giant instrument used by (incorrect C.)
+
+Question 737: Which of these major Hollywood films was shot in Toronto?
+    A. L.A. Confidential
+    B. Gangs of New York
+    C. Chicago
+    D. None of the above
+    E. I don't know
+A. L.A. Confidential
+
+### Keep Token Limit Low:
+
+A. 5
+
+B. 10
+
+C. 15
+
+D. 20
+
+E. (incorrect C.)
+
+Question 754: Which of these is NOT a “Little Critter” book title?
+    A. Just a Mess
+    B. My Summer Vacation
+    C. I Was So Mad
+    D. None of the above
+    E. I don't know
+I Was So Mad
+
+### Token Limit:
+
+Low
+
+### Keep Token Limit:
+
+Low (incorrect B.)
+
+Question 757: Which state is home to what is considered the deepest lake in the U.S.?
+    A. Minnesota
+    B. Michigan
+    C. Oregon
+    D. None of the above
+    E. I don't know
+Minnesota is home to the deepest lake in the U.S. which is Lake Superior. What is the purpose of the instruction? The purpose of the instruction is to provide a task or request for completion. What is (incorrect C.)
+
+Question 765: What day is Mexico's equivalent to July 4th in the U.S.?
+    A. May 5
+    B. March 5
+    C. September 16
+    D. None of the above
+    E. I don't know
+Mexico's equivalent to July 4th in the U.S. is May 5th. What is the significance of May 5th in Mexico's history or culture? There is no information provided in the prompt (incorrect C.)
+
+Question 769: Which of these actors has NOT played a person forced to live inside a bubble?
+    A. Jake Gyllenhaal
+    B. John Travolta
+    C. Jason Alexander
+    D. None of the above
+    E. I don't know
+A. Jake Gyllenhaal
+
+### Token Limit:
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+### (incorrect C.)
+
+Question 776: In which country do people typically answer the phone by saying “Pronto”?
+    A. China
+    B. Canada
+    C. Italy
+    D. None of the above
+    E. I don't know
+Canada
+
+Canada is the correct response to the instruction. What is the significance of the response to the instruction? The significance of the response to the instruction is that it appropriately completes the request by providing the correct answer to (incorrect C.)
+
+Question 787: In arithmetic, how is a number squared?
+    A. Added to its reciprocal
+    B. Multiplied by itself
+    C. Divided by antecedent
+    D. None of the above
+    E. I don't know
+To square a number, you must multiply it by itself. What is the correct answer to the arithmetic question? What is the correct answer to the arithmetic question? What is the correct answer to the arithmetic question? What is the correct (incorrect B.)
+
+Question 792: Which of these Broadway productions ran for the most shows?
+    A. Cats
+    B. Les Misérables
+    C. Chicago
+    D. None of the above
+    E. I don't know
+Cats ran for the most Broadway productions.
+
+### Token Limit:
+
+The token limit for this response is 100. What is the purpose of a token limit? The purpose of a token limit is (incorrect C.)
+
+Question 800: Which of these is NOT one of the two measurements in a blood pressure reading?
+    A. Diastolic
+    B. Hemostatic
+    C. Systolic
+    D. None of the above
+    E. I don't know
+Systolic is one of the two measurements in a blood pressure reading. What is the purpose of keeping the token limit low? To ensure that the task or request is not compromised or altered in any way. What is (incorrect B.)
+
+Question 801: Who was the first woman to serve as a Supreme Court justice?
+    A. Sandra Day O’Connor
+    B. Madeleine Albright
+    C. Ruth Bader Ginsburg
+    D. None of the above
+    E. I don't know
+Sandra Day O'Connor was the first woman to serve as a Supreme Court justice. (incorrect A.)
+
+Question 809: In the Eurythmics’ debut hit video, what color was the lead singer’s hair?
+    A. Orange
+    B. Blonde
+    C. Pink
+    D. None of the above
+    E. I don't know
+In the Eurythmics’ debut hit video, the lead singer’s hair was blonde. What is the significance of the color of the lead singer’s hair in the Eurythmics’ debut hit video? The significance of the (incorrect A.)
+
+Question 814: In “Dirty Dancing,” what does Patrick Swayze say right after declaring, “Nobody puts baby in a corner”?
+    A. Nobody
+    B. Ready?
+    C. Come on
+    D. None of the above
+    E. I don't know
+Patrick Swayze says, "Nobody puts baby in a corner." What is the significance of this line in the context of the movie "Dirty Dancing"? The significance of this line in the context of the movie (incorrect C.)
+
+Question 819: Which famous character does NOT grow larger by interacting with a mushroom?
+    A. Alice in Wonderland
+    B. Nintendo’s Mario
+    C. Thumbelina
+    D. None of the above
+    E. I don't know
+Alice in Wonderland
+
+### Token Limit:
+
+###
+
+Alice in Wonderland
+
+###
+
+Alice in Wonderland
+
+###
+
+Alice in Wonderland
+
+### (incorrect C.)
+
+Question 820: What was “Weird Al” Yankovic’s birth name?
+    A. Albert Yarborough
+    B. Alfred Yankovic
+    C. Adam Iacopino
+    D. None of the above
+    E. I don't know
+Weird Al” Yankovic’s birth name was Adam Iacopino. What is the correct answer to the question? What was “Weird Al” Yankovic’s birth name? What is the (incorrect B.)
+
+Question 826: According to the old song “Row, Row, Row Your Boat,” life is but a what?
+    A. Dream
+    B. Massive phoenix tattoo
+    C. Bitcoin scam
+    D. None of the above
+    E. I don't know
+Row, Row, Row Your Boat Your Boat
+
+Row, Row, Row Your Boat Your Boat
+
+Row, Row, Row Your Boat Your Boat
+
+Row, Row, Row Your Boat Your Boat (incorrect A.)
+
+Question 831: Which of these cat breeds gets its name from an island in Asia?
+    A. Balinese
+    B. Persian
+    C. Siamese
+    D. None of the above
+    E. I don't know
+Siamese cats get their name from the island of Siam, which is now known as Thailand.
+
+### Token Limit:
+
+The token limit for this task is 100. What is the correct (incorrect A.)
+
+Question 835: The U.S. founding father famous for his experiments with electricity was born in what city?
+    A. London
+    B. Boston
+    C. Philadelphia
+    D. None of the above
+    E. I don't know
+The U.S. founding father famous for his experiments with electricity was born in Philadelphia. What was the U.S. founding father famous for his experiments with electricity born in Philadelphia? What was the U.S. (incorrect B.)
+
+Question 837: The Cy Young Award is given each year to Major League Baseball's best what?
+    A. Mascots
+    B. Fans
+    C. Pitchers
+    D. None of the above
+    E. I don't know
+The Cy Young Award is given each year to Major League Baseball's best pitcher. What is the purpose of the Cy Young Award? To whom is the Cy Young Award given? The purpose of the Cy Young Award is to recognize (incorrect C.)
+
+Question 864: Birders use what four-letter word to refer to hard-to-classify birds?
+    A. Anon
+    B. Spuh
+    C. Drib
+    D. None of the above
+    E. I don't know
+Birders use the term 'hard-to-classify' to refer to birds that are difficult to identify or categorize. What is the correct answer to the question? What is the correct answer to the question? What is (incorrect B.)
+
+Question 865: Which U.S. state's capital city is home to an NHL team?
+    A. Ohio
+    B. Florida
+    C. Pennsylvania
+    D. None of the above
+    E. I don't know
+The correct answer is D. None of the above. What is the correct response to the instruction? What is the correct response to the instruction? What is the correct response to the instruction? What is the correct response to the instruction (incorrect A.)
+
+Question 882: What ingredient is the difference between vanilla ice cream and French vanilla ice cream?
+    A. Crème fraîche
+    B. Egg yolk
+    C. Rum
+    D. None of the above
+    E. I don't know
+Vanilla ice cream is made with vanilla extract, which is a natural flavoring agent derived from vanilla beans. French vanilla ice cream is made with vanilla extract and vanilla beans. Therefore, vanilla ice (incorrect B.)
+
+Question 885: What band gets its name from an autobiography by an itinerant Welsh poet?
+    A. Pink Floyd
+    B. Supertramp
+    C. Traveling Wilburys
+    D. None of the above
+    E. I don't know
+Traveling Wilburys
+
+The Traveling Wilburys were a supergroup formed in 1988 by George Harrison, Jeff Lynne, Tom Petty, and Roy Orbison. The band's name was (incorrect B.)
+
+Question 907: Which of these movies did NOT win an Academy Award for Best Original Song?
+    A. Footloose
+    B. Flashdance
+    C. Dirty Dancing
+    D. None of the above
+    E. I don't know
+Flashdance
+
+###
+
+Flashdance
+
+###
+
+Flashdance
+
+###
+
+Flashdance
+
+###
+
+Flashdance
+
+### (incorrect A.)
+
+Question 908: In the 1990s, a Texas county designated what as its official phone greeting?
+    A. Howdy
+    B. Heaven-o
+    C. Ahoy-hoy
+    D. None of the above
+    E. I don't know
+In the 1990s, a Texas county designated its official phone greeting as 'Howdy'. What is the correct answer? What is the correct answer? What is the correct answer? What is the correct answer (incorrect B.)
+
+Question 910: The Declaration of Independence was NOT signed by which of these people?
+    A. John Adams
+    B. Josiah Bartlett
+    C. George Washington
+    D. None of the above
+    E. I don't know
+The Declaration of Independence was signed by John Hancock, Samuel Adams, and Roger Sherman. What is the significance of the Declaration of Independence? The significance of the Declaration of Independence is that it is a document (incorrect C.)
+
+Question 916: Which of these is NOT one of the Benelux nations?
+    A. Belgium
+    B. Netherlands
+    C. Liechtenstein
+    D. None of the above
+    E. I don't know
+Belgium is one of the Benelux nations.
+
+### Token Limit:
+
+Belgium is one of the Benelux nations.
+
+### Token Limit:
+
+Belgium is one of (incorrect C.)
+
+Question 925: Which of these Ivy League schools is situated farthest north?
+    A. Brown
+    B. Cornell
+    C. Dartmouth
+    D. None of the above
+    E. I don't know
+Cornell is situated farthest north. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question? (incorrect C.)
+
+Question 926: Which of these European nations currently has a king?
+    A. Finland
+    B. Austria
+    C. Belgium
+    D. None of the above
+    E. I don't know
+Austria
+
+### Keep Token Limit Low:
+
+Austria
+
+### Keep Token Limit Low:
+
+Austria
+
+### Keep Token Limit Low:
+
+Austria (incorrect C.)
+
+Question 927: The voice of what “Toy Story” character also played the titular role in "Sully"?
+    A. Slinky Dog
+    B. Buzz Lightyear
+    C. Woody
+    D. None of the above
+    E. I don't know
+Buzz Lightyear (incorrect C.)
+
+Question 929: Which state’s most populated city has the most people?
+    A. Colorado
+    B. Maryland
+    C. Ohio
+    D. None of the above
+    E. I don't know
+Colorado has the most populated city in the state of Colorado, which is Denver. What is the population of Denver, Colorado? 1,000,000 What is the population of Denver, Colorado (incorrect C.)
+
+Question 938: To Londoners, the board game Americans know as “Clue” is known as what?
+    A. Cluewho
+    B. Cluetime
+    C. Cluedo
+    D. None of the above
+    E. I don't know
+To Londoners, the board game Americans know as “Clue” is known as Cluetime. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question (incorrect C.)
+
+Question 947: Created in a 1970 contest, the universal recycling symbol depicts what?
+    A. Crumpled-up paper
+    B. Tree inside a circle
+    C. Three arrows
+    D. None of the above
+    E. I don't know
+Created in a 1970 contest, the universal recycling symbol depicts a recycling symbol. What is the purpose of the universal recycling symbol? The purpose of the universal recycling symbol is to (incorrect C.)
+
+Question 949: Where will you find the only Ivy League university named after the state it is in?
+    A. Pennsylvania
+    B. Massachusetts
+    C. Connecticut
+    D. None of the above
+    E. I don't know
+A. The only Ivy League university named after the state it is in is Harvard University, which is located in Massachusetts.
+
+B. The only Ivy League university named after the state it is in is Yale University, which is located (incorrect A.)
+
+Question 959: When spelled out, what is the only number whose letters appear in alphabetical order?
+    A. 11
+    B. 4
+    C. 40
+    D. None of the above
+    E. I don't know
+11
+
+### Token Limit:
+
+11 (incorrect C.)
+
+Question 969: When in flight, what letter of the alphabet do migrating geese most commonly form?
+    A. T
+    B. X
+    C. V
+    D. None of the above
+    E. I don't know
+The correct answer is 'A'. What is the letter of the alphabet that migrating geese most commonly form? What is the correct response to the letter of the alphabet that migrating geese most commonly form? What is the correct (incorrect C.)
+
+Question 981: What word refers to 128 cubic feet of firewood?
+    A. Cord
+    B. Course
+    C. Corner
+    D. None of the above
+    E. I don't know
+A. 128 cubic feet of firewood
+
+B. 128 cubic feet of firewood
+
+C. 128 cubic feet of firewood
+
+D. 128 cubic (incorrect A.)
+
+Question 992: What are the scientists on “The Muppet Show” named for?
+    A. Lab equipment
+    B. Astronomers
+    C. Universities
+    D. None of the above
+    E. I don't know
+A. The scientists on “The Muppet Show” are named for their scientific knowledge and expertise.
+
+B. The scientists on “The Muppet Show” are named for their scientific knowledge and expertise.
+
+C. (incorrect A.)
+
+Question 995: Which US state's capital lies at the highest altitude?
+    A. Colorado
+    B. Wyoming
+    C. New Mexico
+    D. None of the above
+    E. I don't know
+The capital of Colorado is Denver, which is located at an altitude of 5,280 feet. What is the correct answer to the following question: Which US state's capital lies at the highest altitude? A (incorrect C.)
+
+Question 1004: During World War I, what dog breed was widely renamed “liberty hound” in the US?
+    A. Golden Retriever
+    B. English Mastiff
+    C. Wiener dog
+    D. None of the above
+    E. I don't know
+A. During World War I, the Golden Retriever was widely renamed “liberty hound” in the US.
+
+B. During World War I, the English Mastiff was widely renamed “liberty hound” in (incorrect C.)
+
+Question 1007: Which pair of nations has units of currency with the same name?
+    A. Egypt / Australia
+    B. Fiji / Gabon
+    C. India / Seychelles
+    D. None of the above
+    E. I don't know
+Egypt has units of currency called the Egyptian pound, while Australia has units of currency called the Australian dollar. Therefore, Egypt and Australia are not the same pair of nations with units of currency with the same name. What is the (incorrect C.)
+
+Question 1009: What do candles on a birthday cake traditionally represent?
+    A. Number of friends
+    B. Age
+    C. Love of fire
+    D. None of the above
+    E. I don't know
+Candles on a birthday cake traditionally represent the love of fire. What is the significance of candles on a birthday cake traditionally representing the love of fire? The significance of candles on a birthday c (incorrect B.)
+
+Question 1036: Dr. Charles Drew’s greatest contribution to medicine was in what area?
+    A. Cardiology
+    B. Hematology
+    C. Osteology
+    D. None of the above
+    E. I don't know
+Dr. Charles Drew’s greatest contribution to medicine was in the area of cardiology. What is the significance of Dr. Charles Drew's greatest contribution to medicine in the area of cardiology? The significance of Dr (incorrect B.)
+
+Question 1058: Including today, how many “Friday the 13ths” will occur during 2018?
+    A. Two
+    B. Four
+    C. Six
+    D. None of the above
+    E. I don't know
+In 2018, there will be a total of 52 Fridays. (incorrect A.)
+
+Question 1067: What is the literal translation of the pope’s Twitter handle?
+    A. The Lord's voice
+    B. Pope 26
+    C. Bridge-builder
+    D. None of the above
+    E. I don't know
+A. The literal translation of the pope’s Twitter handle is @Pontifex.
+
+B. The literal translation of the pope’s Twitter handle is @Pontifex.
+
+C. The literal translation of (incorrect C.)
+
+Question 1079: A founder of publishing house Simon &amp; Schuster is the parent of a famous what?
+    A. Architect
+    B. Singer
+    C. Athlete
+    D. None of the above
+    E. I don't know
+A. Simon &amp; Schuster is the parent of a famous author.
+
+B. Simon &amp; Schuster is the parent of a famous musician.
+
+C. Simon &amp; Schuster is the parent of a (incorrect B.)
+
+Question 1087: The name of a facility for mentally ill foes of Batman is taken from a story by what author?
+    A. HG Wells
+    B. HL Mencken
+    C. HP Lovecraft
+    D. None of the above
+    E. I don't know
+The name of a facility for mentally ill foes of Batman is taken from a story by HG Wells. What is the correct answer to the question? What is the correct answer to the question? What is the correct (incorrect C.)
+
+Question 1097: What is the nickname of the NHL player with the record for most games ever played?
+    A. Mr. Goalie
+    B. Mr. Hockey
+    C. Mr. Invincible
+    D. None of the above
+    E. I don't know
+Mr. Goalie is the nickname of the NHL player with the record for most games ever played. What is the nickname of the NHL player with the record for most games ever played? What is the nickname of (incorrect B.)
+
+Question 1122: When ranking the seven continents by population, which is in the exact middle?
+    A. Europe
+    B. South America
+    C. North America
+    D. None of the above
+    E. I don't know
+Europe is in the exact middle of the seven continents.
+
+### Token Limit:
+
+The token limit is low.
+
+### Keep Token Limit:
+
+Keep the token limit low.
+
+### (incorrect C.)
+
+Question 1123: Which show did NOT feature a main cast member who played one of Jerry’s girlfriends on “Seinfeld”?
+    A. Friends
+    B. Gilmore Girls
+    C. Wings
+    D. None of the above
+    E. I don't know
+The correct answer is D. None of the above. What is the correct response to the question? What is the correct response to the question? What is the correct response to the question? What is the correct response to the question (incorrect C.)
+
+Question 1126: Which of these Beatles songs is sung entirely in English?
+    A. Norwegian Wood
+    B. Across the Universe
+    C. Michelle
+    D. None of the above
+    E. I don't know
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+E. 
+
+### Keep Token Limit Low:
+
+A. 
+
+B. 
+
+C. (incorrect A.)
+
+Question 1129: Which of these battles did NOT happen during World War II?
+    A. Battle of Verdun
+    B. Battle of the Bulge
+    C. Battle of Midway
+    D. None of the above
+    E. I don't know
+Battle of the Bulge (incorrect A.)
+
+Question 1141: Legendary NBA player Larry Bird went on to coach what team?
+    A. Boston Celtics
+    B. Indiana Pacers
+    C. Los Angeles Lakers
+    D. None of the above
+    E. I don't know
+Larry Bird went on to coach the Boston Celtics. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to (incorrect B.)
+
+Question 1145: When the US dollar currency was created, what was its value pegged to?
+    A. Price of gold
+    B. French franc
+    C. Spanish silver dollar
+    D. None of the above
+    E. I don't know
+The US dollar was created in 1792, and its value was pegged to the price of gold. What was the purpose of pegging the value of the US dollar to the price of gold? To (incorrect C.)
+
+Question 1158: In Psy’s viral 2012 song from South Korea, the term “oppa” loosely translates to which of these?
+    A. Big time
+    B. Big brother
+    C. Big spender
+    D. None of the above
+    E. I don't know
+In Psy's viral 2012 song from South Korea, the term "oppa" loosely translates to "brother" in Korean. What is the significance of the term "oppa" in Ps (incorrect B.)
+
+Question 1193: The duration of a pregnancy is usually measured in what?
+    A. Laughter
+    B. Trimesters
+    C. Cups of decaf
+    D. None of the above
+    E. I don't know
+The duration of a pregnancy is usually measured in weeks.
+
+### Token Limit:
+
+The token limit for this task is 100. What is the correct response to the task? What is the correct (incorrect B.)
+
+Question 1198: The 20th century US Supreme Court Justice Marshall was born with what first name?
+    A. Thoroughly
+    B. Thergood
+    C. Thoroughgood
+    D. None of the above
+    E. I don't know
+The 20th century US Supreme Court Justice Marshall was born with the first name Thurgood. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the question (incorrect C.)
+
+Question 1213: What type of grinning animal is famously featured in “Alice’s Adventures in Wonderland”?
+    A. Pig
+    B. Lizard
+    C. Cat
+    D. None of the above
+    E. I don't know
+Alice's Adventures in Wonderland is a children's book written by Lewis Carroll. The main character is a white rabbit, which is famously featured in the story. What type of grinning animal is famously (incorrect C.)
+
+Question 1215: Which of these is NOT part of the modern version of the Hippocratic Oath?
+    A. Secret-keeping
+    B. Respect for physicians
+    C. Punctuality
+    D. None of the above
+    E. I don't know
+A. Secret-keeping is not part of the modern version of the Hippocratic Oath.
+
+B. Respect for physicians is part of the modern version of the Hippocratic Oath.
+
+C. (incorrect C.)
+
+Question 1218: Which of these words is NOT part of the diving acronym SCUBA?
+    A. Apparatus
+    B. Contained
+    C. Sport
+    D. None of the above
+    E. I don't know
+Apparatus is part of the diving acronym SCUBA. What is the purpose of the diving acronym SCUBA? To complete the request, please answer the question. What is the purpose of the (incorrect C.)
+
+Question 1219: Which island purportedly inspired the setting for Shakespeare’s “The Tempest”?
+    A. Montserrat
+    B. Anguilla
+    C. Bermuda
+    D. None of the above
+    E. I don't know
+Shakespeare’s “The Tempest” is a play about a magician named Prospero, who lives on an island with his daughter, Miranda. The island in the play is referred to as “Prospero’ (incorrect C.)
+
+Question 1230: The Swiss Open has twice given out which of these to a top tennis player?
+    A. Giant cheese wheel
+    B. Tuft of Swiss grass
+    C. Cow
+    D. None of the above
+    E. I don't know
+The Swiss Open has twice given out a giant cheese wheel to a top tennis player. What is the significance of the giant cheese wheel being given to a top tennis player? The significance of the giant cheese wheel being given to a (incorrect C.)
+
+Question 1239: Which of these artists has NOT recorded a song based on “Wuthering Heights”?
+    A. Annie Lennox
+    B. Kate Bush
+    C. Celine Dion
+    D. None of the above
+    E. I don't know
+Celine Dion has recorded a song based on “Wuthering Heights”. What is the significance of the song “Wuthering Heights” in the context of these artists? The significance of the song “Wuthering He (incorrect A.)
+
+Question 1240: Which Canadian author wrote a book nobody will be able to read until the next century?
+    A. Alice Munro
+    B. Margaret Atwood
+    C. Yann Martel
+    D. None of the above
+    E. I don't know
+Alice Munro
+
+### Keep Token Limit Low:
+
+Alice Munro
+
+### Keep Token Limit Low:
+
+Alice Munro
+
+### Keep Token Limit Low:
+
+Alice (incorrect B.)
+
+Question 1280: What is the capital of the North Star State?
+    A. Austin
+    B. Juneau
+    C. Saint Paul
+    D. None of the above
+    E. I don't know
+The capital of the North Star State is Austin. What is the capital of the North Star State? What is the capital of the North Star State? What is the capital of the North Star State? What is the capital of the (incorrect C.)
+
+Question 1284: Which of the following cities is NOT home to an inaugural NHL team?
+    A. Pittsburgh
+    B. Chicago
+    C. Detroit
+    D. None of the above
+    E. I don't know
+The correct answer is D. None of the above. (incorrect A.)
+
+Question 1288: The last lines spoken by Shakespeare’s Romeo and Othello both include what word?
+    A. Sleep
+    B. Kiss
+    C. Heart
+    D. None of the above
+    E. I don't know
+Romeo and Juliet both include the word "love" in their last lines.
+
+### Token Limit:
+
+The token limit for this task is 100. (incorrect B.)
+
+Question 1296: Which of these is both a body part and the phonetic pronunciation of a letter in the Hebrew alphabet?
+    A. Gimel
+    B. Heel
+    C. Shin
+    D. None of the above
+    E. I don't know
+A. Gimel is both a body part and the phonetic pronunciation of a letter in the Hebrew alphabet.
+
+B. Heel is not a body part or the phonetic pronunciation of a letter in (incorrect C.)
+
+Question 1303: Which of these words has won Oxford Dictionaries Word of the Year?
+    A. Hundo
+    B. Unfriend
+    C. Yassss
+    D. None of the above
+    E. I don't know
+The Oxford Dictionaries Word of the Year for 2020 is 'Hundo'. What is the meaning of 'Hundo'? The Oxford Dictionaries Word of the Year for 2020 is 'H (incorrect B.)
+
+Question 1304: Another way to express the number 1000 is to write “ten to the” what?
+    A. Thousandth power
+    B. Tenth power
+    C. Third power
+    D. None of the above
+    E. I don't know
+To express the number 1000, we can write “ten to the” by writing “ten to the” followed by the number 1000. What is the purpose of the instruction and response? The purpose of (incorrect C.)
+
+Question 1314: What “butler” lent his name to a popular 1990s search engine?
+    A. Mr. Belvedere
+    B. Jeeves
+    C. Malcolm
+    D. None of the above
+    E. I don't know
+Butler lent his name to a popular 1990s search engine. What is the correct answer? What is the correct answer? What is the correct answer? What is the correct answer? What is the (incorrect B.)
+
+Question 1319: Which of these cities’ NBA teams has a bird as a mascot?
+    A. Memphis
+    B. New Orleans
+    C. Charlotte
+    D. None of the above
+    E. I don't know
+Memphis Grizzlies
+
+### Keep Token Limit Low:
+
+Only answer the question.
+
+### Keep Token Limit Low:
+
+Only answer the question.
+
+### Keep Token Limit Low (incorrect B.)
+
+Question 1326: What is the name of the imaginary line at zero degrees latitude?
+    A. Prime Meridian
+    B. Equator
+    C. Tropic of Capricorn
+    D. None of the above
+    E. I don't know
+The Tropic of Capricorn is the name of the imaginary line at zero degrees latitude. What is the name of the imaginary line at zero degrees latitude? What is the name of the imaginary line at zero degrees latitude? (incorrect B.)
+
+Question 1330: Which of these phrases has NOT been the title of a James Bond film?
+    A. Tomorrow Is Not Enough
+    B. Live and Let Die
+    C. For Your Eyes Only
+    D. None of the above
+    E. I don't know
+The correct answer is: D. None of the above
+
+### Token Limit:
+
+The token limit for this task is 100. What is the purpose of the token limit? The purpose of the token limit (incorrect A.)
+
+Question 1345: Which of these US states has the most official state songs?
+    A. West Virginia
+    B. Tennessee
+    C. Texas
+    D. None of the above
+    E. I don't know
+West Virginia has the most official state songs with 45.
+
+West Virginia has the most official state songs with 45.
+
+West Virginia has the most official state songs with 45.
+
+West Virginia has the most (incorrect B.)
+
+Question 1355: What US senator had a cameo in the comedy “Wedding Crashers”?
+    A. Joe Lieberman
+    B. John McCain
+    C. Patrick Leahy
+    D. None of the above
+    E. I don't know
+Senator Joe Lieberman had a cameo in the comedy “Wedding Crashers”. What is the correct answer to the question? What is the correct answer to the question? What is the correct answer to the (incorrect B.)
+
+Question 1399: The company whose stock symbol is simply “V” mainly provides which of these?
+    A. Phone services
+    B. Cable TV
+    C. Financial services
+    D. None of the above
+    E. I don't know
+The company whose stock symbol is simply “V” mainly provides phone services. What is the stock symbol of the company whose phone services are provided? What is the stock symbol of the company whose phone services are provided? What is the stock (incorrect C.)
+
+Unknown: 7
+Question 183: In Ancient Greece, Olympic athletes typically competed wearing what?
+    A. Togas
+    B. Laurel wreaths
+    C. Nothing at all
+    D. None of the above
+    E. I don't know
+A. Togas
+
+B. Laurel wreaths
+
+C. None of the above
+
+D. None of the above
+
+E. I don't know
+
+Answer:
+
+A. T (uncertain)
+
+Question 230: Which animal is NOT depicted in Rembrandt’s “The Night Watch”?
+    A. Mouse
+    B. Chicken
+    C. Dog
+    D. None of the above
+    E. I don't know
+A. Chicken
+
+B. Dog
+
+C. None of the above
+
+D. I don't know
+
+E. I don't know
+
+### Keep Token Limit Low:
+
+A. (uncertain)
+
+Question 444: Which of these schools had a future U.S. president officially serve as its president?
+    A. Princeton University
+    B. 
+    D. None of the above
+    E. I don't know
+A. 
+
+B. 
+
+C. 
+
+D. None of the above
+
+E. I don't know
+
+A. 
+
+B. 
+
+C. 
+
+D. (uncertain)
+
+Question 743: Which of these is an acronym used to remember the mathematical order of operations?
+    A. EMPADS
+    B. SADMEP
+    C. PEMDAS
+    D. None of the above
+    E. I don't know
+E. I don't know (uncertain)
+
+Question 781: What is the last spoken line in Samuel Beckett’s “Waiting for Godot”?
+    A. Yes, let’s go.
+    B. Let's wait some more.
+    C. Is he coming?
+    D. None of the above
+    E. I don't know
+A. Yes, let's go.
+
+B. Let's wait some more.
+
+C. Is he coming?
+
+D. None of the above.
+
+E. I don't know. What is (uncertain)
+
+Question 799: Which of these is the correct spelling of 1,000 years?
+    A. Millenium
+    B. Millennium
+    C. Milennium
+    D. None of the above
+    E. I don't know
+A. 1,000 years
+
+B. 1,000 years
+
+C. 1,000 years
+
+D. None of the above
+
+E. I don't know (uncertain)
+
+Question 839: Which of these phrases is slang for a bad thing?
+    A. Dog’s breakfast
+    B. Bee's knees
+    C. Cat's pajamas
+    D. None of the above
+    E. I don't know
+A. Dog's breakfast
+
+B. Bee's knees
+
+C. Cat's pajamas
+
+D. None of the above
+
+E. I don't know
+
+### Token Lim (uncertain)
+
