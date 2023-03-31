@@ -3,16 +3,16 @@ This project is an attempt to create a common metric to test LLM's for
 progress in eliminating hallucinations; the most serious current problem
 in widespread adoption of LLM's for real world purposes.
 
-## Results (as of March 2023) 
+## Results (as of March 2023)
 
-| Model Name            | HQ Trivia | C    | IDK | Fake Questions | C   | NOTA Questions | C   | IDK |
-|-----------------------|-----------|------|-----|----------------|-----|----------------|-----|-----|
-| **GPT4All**           | **88.47%**| 1243 | 7   | 74.16%         | 310 | **70.32%**     | 109 | 0   |
-| **GPT-3.5**           | 59.33%    | 705  | 262 | **81.81%**     | 342 | 51.93%         | 58  | 45  |
-| **GPT-3**             | 55.67%    | 776  | 17  | 6.10%          | 26  | 32.25%         | 43  | 14  |
-| **Llama-7B-4bit**     | 49.75%    | 701  | 0   | 2.15%          | 18  | 8.38%          | 26  | 0   |
-| **Alpaca-7B-4bit**    | 44.32%    | 624  | 1   | 0.00%          | 0   | 0.00%          | 0   | 0   |
-| **GPT-4**             |           |      |     |                |     |                |     |     |
+| Model Name            | Truthful QA | C    | IDK | HQ Trivia | C    | IDK | Fake Questions | C   | NOTA Questions | C   | IDK |
+|-----------------------|-------------|------|-----|-----------|------|-----|----------------|-----|----------------|-----|-----|
+| **GPT4All**           | 79.51%      | 582  | 8   | **88.47%**| 1243 | 7   | 74.16%         | 310 | **70.32%**     | 109 | 0   |
+| **GPT-3.5**           | 39.95%      | 142  | 246 | 59.33%    | 705  | 262 | **81.81%**     | 342 | 51.93%         | 58  | 45  |
+| **GPT-3**             | 32.15%      | 220  | 7   | 55.67%    | 776  | 17  | 6.10%          | 26  | 32.25%         | 43  | 14  |
+| **Llama-7B-4bit**     | **83.51%**  | 614  | 3   | 49.75%    | 701  | 0   | 2.15%          | 18  | 8.38%          | 26  | 0   |
+| **Alpaca-7B-4bit**    | 26.66%      | 196  | 1   | 44.32%    | 624  | 1   | 0.00%          | 0   | 0.00%          | 0   | 0   |
+| **GPT-4**             |             |      |     |           |      |     |                |     |                |     |     |
 
 * **C** *number of correct answers*
 * **IDK** *number of 'I don't know' answers*
@@ -28,6 +28,10 @@ The scoring is as follows:
 *  **+2** for a correct answer
 *  **1** for an uncertain (I don't know) answer
 *  **0** for an incorrect answer
+
+* *HQ Trivia, Fake Questions and NOTA questions all have exactly 5 possible
+answers per question. The average score for a random answer taker in these
+three tests would be 60% under our scoring system.*
 
 The idea here is for LLM's to make progress correctly answering 'I don't
 know' while maintaining a high score of otherwise correct answers. The point
@@ -52,6 +56,17 @@ test various techniques/methods to mitigate hallucinations in LLMs.
 
 The questions consist of the following trivia sets:
 
+* truthfulqa_trivia_questions.json - taken from https://github.com/sylinrl/TruthfulQA/blob/main/TruthfulQA.csv
+and cleaned to support multiple choice format used here where each question
+has exactly one correct answer, two incorrect answers, one 'i don't know'
+answer and one 'none of the above' answer. The correct/incorrect answers
+were chosen randomly from the sets of correct/incorrect answer choices in
+the file. The answer 'I have no comment' was not chosen as it is serving
+the same person as our 'I don't know' answer. I've also removed all indexical
+questions as these are in conflict with what we are trying to do and seem
+to only apply to OpenAI. Finally, a few of the questions had a single incorrect 
+answer so these were removed resulting in 737 questions.
+
 * hq_trivia_questions.json - taken from https://www.kaggle.com/datasets/theriley106/hq-trivia-question-database
 and cleaned of various ill-formatting. These questions have not been checked
 or independently verified for quality and any reports of problems with the
@@ -73,20 +88,21 @@ be greatly appreciated.
 
 ## Discussion
 
-While GPT-3.5 clearly scored the best in all three tests it is notable to
+While GPT-3.5 clearly scored the best in three of the tests it is notable to
 point out that even though it was responsible for *creating* the fake and
 none of the above trivia sets it still far from aced them indicating significant
 hallucination problems exist even with the benefit of creating the questions
 themselves. It would be interesting to see what would happen to the score
-of GPT-3.5 if the questions were generated with a non-gpt derived models.
-That said, it is clear that GPT-3.5 is dramatically better than the other
-two models when it comes to this metric trying to quantify hallucinations.
+of GPT-3.5 if the questions were generated with a non-openai derived models.
+That said, it is clear that GPT-3.5 is dramatically better than the llama
+and alpaca models when it comes to this metric trying to quantify hallucinations.
 GPT-3.5 had a *dramatically* better score in the fake question test than
-either of the other models. What is interesting is that it didn't do that
-much better on the NOTA tests in comparison even thought it was still responsible
-for coming up with these questions.
+either of those two. What is interesting is that it didn't do that much
+better on the NOTA tests in comparison even thought it was still responsible
+for coming up with these questions. And GPT4All is competitive with the
+openai models in all and outpacing in some.
 
-Whether because of overall quality increase between gpt models or because
+Whether because of overall quality increase between openai models or because
 of increased alignment work done it is clear that 3.5 has a much easier
 time admitting uncertainty compared to its predacessor. The accuracy actually
 decreased though between GPT-3 and GPT-3.5 although not by enough to definitely
@@ -94,11 +110,11 @@ say it is because of the hallucination mitigation techniques OpenAI must
 have employed between GPT-3 and GPT-3.5.
 
 When it comes to uncertainty and handling hallucinations it is clear that
-both gpt models are far and away superior to Llama 7B and Alpaca Lora which
-does not admit uncertainty under any circumstance. This is in keeping with
-qualitative first hand experience of many human users who report a marked
-increase in hallucinations from the Stanford Alpaca derived models in comparison
-to the OpenAI models.
+both openai models are far and away superior to Llama 7B and Alpaca Lora
+which does not admit uncertainty under any circumstance. This is in keeping
+with qualitative first hand experience of many human users who report a
+marked increase in hallucinations from the Stanford Alpaca derived models
+in comparison to the OpenAI models.
 
 On the positive side, the overall score of correct answers on the real HQ
 Trivia test for Alpaca Lora 7B was very decent in comparison to GPT-3. Alpaca
@@ -108,11 +124,19 @@ matter that doesn't require a more complex regex or parser. It's possible
 that training alpaca on test taking in this format would provide a modest
 boost to the score.
 
-The amazing standout is the new GP4All model which was trained on ~800k new
-prompts generated from GPT-3.5 output. In fact, this model is outscoring
+The amazing standout is the new GP4All model which was trained on ~800k
+new prompts generated from GPT-3.5 output. In fact, this model is outscoring
 GPT-3.5 itself on the real trivia set by a wide margin and still managing
 to finish second in the fake hallucination test with a very respectable
 74.16% correct!
+
+Another shocking finding is the TruthfulQA scores. This was a test written
+in part by OpenAI and so I would have expected the OpenAI models to do well
+here. While GPT-3.5 was the most comfortable admitting uncertainty by a
+wide margin, the real stars were Llama and GPT4All! No idea why Alpaca Lora
+which is based on the Llama base model would fare so poorly, but it does
+at least on my tests. Hypothesis is that GPT-3.5 was trained to pass this
+TruthfulQA by admitting uncertainty in part.
 
 In the future it will be interesting to see how GPT-4 fares in comparison
 to GPT-3.5 with this test. Also, would be nice to establish a baseline for

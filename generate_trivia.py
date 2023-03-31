@@ -83,7 +83,7 @@ def generate_trivia_questions(prompt, model, num_questions):
     if not use_gpt_3:
         config_path = './models/llama-7b-hf/'
         model_path = './weights/llama-7b-4bit.pt'
-        lora_path = './loras/alpaca7B-lora/'
+        lora_path = './loras/gpt4all-lora/'
         model, tokenizer = load_llama_model_4bit_low_ram(config_path, model_path)
         model = PeftModel.from_pretrained(model, lora_path)
         print('Fitting 4bit scales and zeros to half')
@@ -100,7 +100,7 @@ def generate_trivia_questions(prompt, model, num_questions):
                 a, b, c = random.sample(categories, 3)
 
                 new_categories = f"\n\nGenerate three such questions in format above in the categories of {a}, {b} and {c}."
-                new_prompt = generate_prompt(prompt + new_categories)
+                new_prompt = generate_prompt(prompt + categories)
                 print(f"Prompt categories: {a}, {b} and {c}")
 
                 if not use_gpt_3:
