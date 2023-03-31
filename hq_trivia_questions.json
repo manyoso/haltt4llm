@@ -2258,9 +2258,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "How could you do this to me Brutus?",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "You as well Brutus?",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -3698,7 +3703,7 @@
                 "choice": "B"
             },
             {
-                "text": "",
+                "text": "First person on the moon",
                 "correct": false,
                 "choice": "C"
             },
@@ -11223,9 +11228,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Bionic legs",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "Rocket ship",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -12688,9 +12698,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Guggenheim Museum",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "Fallingwater house",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -13283,9 +13298,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Harvard",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "Yale",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -13938,9 +13958,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Strength of rain",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "How long it lasts",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -20113,9 +20138,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Elmo vs. Rocco",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "Not Wordle",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -20438,9 +20468,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "The plague",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "No soliciting",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -24063,9 +24098,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Woman's rights",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "Techno music",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -27058,9 +27098,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Obama",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "Jimmy Carter",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
@@ -40913,9 +40958,14 @@
                 "choice": "A"
             },
             {
-                "text": "",
+                "text": "Chicago",
                 "correct": false,
                 "choice": "B"
+            },
+            {
+                "text": "West Side Story",
+                "correct": false,
+                "choice": "C"
             },
             {
                 "text": "None of the above",
