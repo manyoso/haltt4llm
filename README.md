@@ -185,7 +185,7 @@ python take_test.py --use-gpt3 --openai-key <YOUR_OPEN_API_KEY> --trivia fake_tr
 Running the NOTA (None of the Above) Trivia test on Alpaca Lora 7B (4bit)
 
 ```
-python take_test.py --trivia fake_trivia_questions.json
+python take_test.py --trivia nota_trivia_questions.json
 ```
 
 These will all produce test result files at the end named according to the test and the model.
