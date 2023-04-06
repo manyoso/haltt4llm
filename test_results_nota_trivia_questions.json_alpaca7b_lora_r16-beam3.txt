@@ -1,0 +1,707 @@
+Total score: 134 of 310
+
+Incorrect: 88
+Question 1: What is the name of the first president of the AFL-CIO?
+    A. Phillip Randolph
+    B. Walter Reuther
+    C. John L. Lewis
+    D. None of the above
+    E. I don't know
+C. John L. Lewis (incorrect D.)
+
+Question 3: What was the highest rank held by Ulysses S. Grant during the American Civil War?
+    A. Lieutenant General
+    B. Major General
+    C. Colonel
+    D. None of the above
+    E. I don't know
+B. Major General (incorrect D.)
+
+Question 4: What is the traditional name of the logical argument form known as modus ponens?
+    A. Denying the consequent
+    B. Affirming the consequent
+    C. Denying the antecedent
+    D. None of the above
+    E. I don't know
+B. Affirming the consequent (incorrect D.)
+
+Question 6: What is the diameter of the Sun?
+    A. 2.7 million km
+    B. 139 thousand km
+    C. 139 million km
+    D. None of the above
+    E. I don't know
+C. 139 million km (incorrect D.)
+
+Question 10: What is the largest desert in the world?
+    A. The Atacama
+    B. The Gobi
+    C. The Kalahari
+    D. None of the above
+    E. I don't know
+The largest desert in the world is the Sahara Desert. (incorrect D.)
+
+Question 14: Who designed the grounds for the Taj Mahal?
+    A. Mughal Emperor Shah Jahan
+    B. Hafeez Ullah Khan
+    C. Muhammad Hussain Khan
+    D. None of the above
+    E. I don't know
+A. Mughal Emperor Shah Jahan (incorrect D.)
+
+Question 15: What is the scientific name of the common apple?
+    A. Citrus sinensis
+    B. Fragaria vesca
+    C. Vaccinium macrocarpon
+    D. None of the above
+    E. I don't know
+A. Citrus sinensis (incorrect D.)
+
+Question 18: Who was the Prime Minister of Australia in 2015?
+    A. Abbott
+    B. Rudd
+    C. Gillard
+    D. None of the above
+    E. I don't know
+C. Gillard (incorrect D.)
+
+Question 19: What is the most abundant mineral in the Earth's crust?
+    A. Calcite
+    B. Feldspar
+    C. Magnetite
+    D. None of the above
+    E. I don't know
+The most abundant mineral in the Earth's crust is feldspar. (incorrect D.)
+
+Question 20: Who is credited with the invention of the Violin?
+    A. Ludwig van Beethoven
+    B. Hans Brüderl
+    C. Mikhail Ivanovich Glinka
+    D. None of the above
+    E. I don't know
+B. Hans Brüderl (incorrect D.)
+
+Question 22: What is the scientific name for the African Elephant?
+    A. Elephas maximus
+    B. Hippopotamus amphibius
+    C. Giraffa camelopardalis
+    D. None of the above
+    E. I don't know
+A. Elephas maximus (incorrect D.)
+
+Question 24: What is the world's largest producer of petroleum?
+    A. Russia
+    B. United States
+    C. Iran
+    D. None of the above
+    E. I don't know
+C. Iran (incorrect D.)
+
+Question 25: What is the scientific name for tulip?
+    A. Rosa
+    B. Lilium
+    C. Gerbera
+    D. None of the above
+    E. I don't know
+B. Lilium (incorrect D.)
+
+Question 27: In what year was the Treaty of Westphalia signed?
+    A. 1526
+    B. 1789
+    C. 1919
+    D. None of the above
+    E. I don't know
+C. 1919 (incorrect D.)
+
+Question 28: What type of lens is used to correct nearsightedness?
+    A. Convex lens
+    B. Cylindrical lens
+    C. Bifocal lens
+    D. None of the above
+    E. I don't know
+C. Bifocal lens (incorrect D.)
+
+Question 31: Who wrote the musical 'The Phantom of the Opera'?
+    A. Stephen Sondheim
+    B. Lin-Manuel Miranda
+    C. Elton John
+    D. None of the above
+    E. I don't know
+The musical 'The Phantom of the Opera' was written by Andrew Lloyd Webber. (incorrect D.)
+
+Question 34: What is the name of the German philosopher who argued for the existence of a categorical imperative?
+    A. Hegel
+    B. Nietzsche
+    C. Kierkegaard
+    D. None of the above
+    E. I don't know
+B. Nietzsche (incorrect D.)
+
+Question 37: What is the accepted theory of the origin of the universe according to modern cosmology?
+    A. The Gaia Hypothesis
+    B. The Steady State Theory
+    C. The Oscillating Universe Theory
+    D. None of the above
+    E. I don't know
+The accepted theory of the origin of the universe according to modern cosmology is the Big Bang Theory. (incorrect D.)
+
+Question 38: What is the name of the river that the Greeks believed the souls of the dead crossed on the way to Hades?
+    A. Lethe
+    B. Phlegethon
+    C. Acheron
+    D. None of the above
+    E. I don't know
+A. Lethe (incorrect D.)
+
+Question 44: What is the name of the largest bone in the human body?
+    A. Ulna
+    B. Rib
+    C. Tibia
+    D. None of the above
+    E. I don't know
+C. Tibia (incorrect D.)
+
+Question 46: What is the original title of the Brothers Grimm fairy tale 'Snow White and the Seven Dwarfs'?
+    A. Aschenputtel
+    B. Rapunzel
+    C. Rumpelstiltskin
+    D. None of the above
+    E. I don't know
+A. Aschenputtel (incorrect D.)
+
+Question 48: Who wrote the play 'The Crucible'?
+    A. Tennessee Williams
+    B. George Bernard Shaw
+    C. Edward Albee
+    D. None of the above
+    E. I don't know
+The play 'The Crucible' was written by Arthur Miller. (incorrect D.)
+
+Question 49: Where did the first pyramid in Egypt, the Pyramid of Djoser, get its structure from?
+    A. Ziggurats
+    B. Tombs
+    C. Temples
+    D. None of the above
+    E. I don't know
+B. Tombs (incorrect D.)
+
+Question 50: Which of the following is an example of a gene?
+    A. ATP
+    B. RNA
+    C. Enzymes
+    D. None of the above
+    E. I don't know
+C. Enzymes (incorrect D.)
+
+Question 54: Which medication is used to treat diabetes?
+    A. Paracetamol
+    B. Penicillin
+    C. Aspirin
+    D. None of the above
+    E. I don't know
+C. Aspirin (incorrect D.)
+
+Question 55: What is the highest mountain in the world?
+    A. Mount Kilimanjaro
+    B. K2
+    C. Kanchenjunga
+    D. None of the above
+    E. I don't know
+The highest mountain in the world is Mount Everest. (incorrect D.)
+
+Question 56: What is the name of the leading theory of the early universe?
+    A. Stochastic Interpretation
+    B. Gravitational Contraction Theory
+    C. Steady State Theory
+    D. None of the above
+    E. I don't know
+C. Steady State Theory (incorrect D.)
+
+Question 57: What is the only primate to have wings?
+    A. Lemur
+    B. Tarsier
+    C. Spider Monkey
+    D. None of the above
+    E. I don't know
+C. Spider Monkey (incorrect D.)
+
+Question 58: What is the key size of the AES-256 encryption algorithm?
+    A. 128-bit
+    B. 512-bit
+    C. 1024-bit
+    D. None of the above
+    E. I don't know
+A. 128-bit (incorrect D.)
+
+Question 60: What is the name of the disease caused by an infection of the smallpox virus?
+    A. Measles
+    B. Influenza
+    C. Chickenpox
+    D. None of the above
+    E. I don't know
+C. Chickenpox (incorrect D.)
+
+Question 61: What type of star is the Sun?
+    A. Blue Giant
+    B. Red Giant
+    C. White Dwarf
+    D. None of the above
+    E. I don't know
+The Sun is a G-type main sequence star. (incorrect D.)
+
+Question 64: Which Greek god is considered to be the god of thunder?
+    A. Poseidon
+    B. Hades
+    C. Apollo
+    D. None of the above
+    E. I don't know
+C. Apollo (incorrect D.)
+
+Question 67: What was the name of the Greek god of the sea?
+    A. Zeus
+    B. Hades
+    C. Athena
+    D. None of the above
+    E. I don't know
+C. Athena (incorrect D.)
+
+Question 69: What is the name of the plant hormone responsible for cell elongation?
+    A. Gibberellins
+    B. Abscisic acid
+    C. Cytokinins
+    D. None of the above
+    E. I don't know
+C. Cytokinins (incorrect D.)
+
+Question 70: What is the name of the process by which a chemical reaction speeds up when its reactants are within close proximity?
+    A. Reduction
+    B. Oxidation
+    C. Hydrolysis
+    D. None of the above
+    E. I don't know
+C. Hydrolysis (incorrect D.)
+
+Question 72: What is the zodiac sign associated with the date August 21st?
+    A. Gemini
+    B. Capricorn
+    C. Aquarius
+    D. None of the above
+    E. I don't know
+A. Gemini (incorrect D.)
+
+Question 73: What is the name of the law in Industrial Design that states that form follows function?
+    A. Function Follows Form
+    B. Form is Function
+    C. Function is Form
+    D. None of the above
+    E. I don't know
+B. Form is Function (incorrect D.)
+
+Question 74: What is the average temperature of Earth's atmosphere?
+    A. 25°C
+    B. -20°C
+    C. 30°C
+    D. None of the above
+    E. I don't know
+The average temperature of Earth's atmosphere is 15°C. (incorrect D.)
+
+Question 76: What is the name of the first dinosaur ever discovered?
+    A. Tyrannosaurus Rex
+    B. Brachiosaurus
+    C. Spinosaurus
+    D. None of the above
+    E. I don't know
+A. Tyrannosaurus Rex (incorrect D.)
+
+Question 77: In the philosophy of science, what is the name of the concept that states that only phenomena that can be observed, measured and repeated are considered as valid scientific evidence?
+    A. Falsifiability
+    B. Scientific Method
+    C. Consilience
+    D. None of the above
+    E. I don't know
+C. Consilience (incorrect D.)
+
+Question 80: Which is the most common target for gene therapy in Oncology?
+    A. Normal Cells
+    B. Stem Cells
+    C. Immune Cells
+    D. None of the above
+    E. I don't know
+C. Immune Cells (incorrect D.)
+
+Question 81: Name the Italian artist who painted the fresco 'The Last Supper'?
+    A. Michelangelo
+    B. Raffaelo Sanzio
+    C. Titian
+    D. None of the above
+    E. I don't know
+A. Michelangelo (incorrect D.)
+
+Question 84: What is the law of non-contradiction?
+    A. Something can be both true and false at the same time
+    B. Something that is true must be false
+    C. Something that is false must be true
+    D. None of the above
+    E. I don't know
+The law of non-contradiction states that something cannot be both true and false at the same time. (incorrect D.)
+
+Question 85: What is the scientific name of the Great Blue Heron?
+    A. Ardea cinerea
+    B. Egretta thula
+    C. Pandion haliaetus
+    D. None of the above
+    E. I don't know
+The scientific name of the Great Blue Heron is Ardea cinerea. (incorrect D.)
+
+Question 88: Who is the founder of the Sikh religion?
+    A. Guru Angad
+    B. Guru Amar Das
+    C. Guru Arjan
+    D. None of the above
+    E. I don't know
+A. Guru Angad (incorrect D.)
+
+Question 90: The estimated age of the universe is approximately how many years old?
+    A. 4.5 billion
+    B. 6.5 trillion
+    C. 7.5 million
+    D. None of the above
+    E. I don't know
+A. 4.5 billion (incorrect D.)
+
+Question 91: What is the scientific name for the plant commonly known as the Rose?
+    A. Camellia sp.
+    B. Rhododendron sp.
+    C. Tulipa sp.
+    D. None of the above
+    E. I don't know
+A. Camellia sp. (incorrect D.)
+
+Question 92: In Greek mythology, who is the king of the gods?
+    A. Hades
+    B. Ares
+    C. Poseidon
+    D. None of the above
+    E. I don't know
+C. Poseidon (incorrect D.)
+
+Question 93: What is the scientific name for the family of flowering plants commonly known as the daisy?
+    A. Liliaceae
+    B. Fabaceae
+    C. Rosaceae
+    D. None of the above
+    E. I don't know
+A. Liliaceae (incorrect D.)
+
+Question 94: What is the name of the theories of urban development proposed by Jane Jacobs in her 1961 book The Death and Life of Great American Cities?
+    A. Theory of Planned Change
+    B. Theory of Complex Adaptive Systems
+    C. Theory of Bifurcation
+    D. None of the above
+    E. I don't know
+B. Theory of Complex Adaptive Systems (incorrect D.)
+
+Question 95: Which philosopher wrote 'The Republic'?
+    A. Aristotle
+    B. Descartes
+    C. Nietzsche
+    D. None of the above
+    E. I don't know
+B. Descartes (incorrect D.)
+
+Question 96: What is the name of the world's first digital computer?
+    A. Z3
+    B. Atanasoff-Berry Computer
+    C. UNIVAC I
+    D. None of the above
+    E. I don't know
+A. Z3 (incorrect D.)
+
+Question 99: What is the name of the ethnic group native to the Kivu region of the Democratic Republic of the Congo?
+    A. Gorilla
+    B. Banyarwanda
+    C. Bakongo
+    D. None of the above
+    E. I don't know
+B. Banyarwanda (incorrect D.)
+
+Question 100: What is the primary organ in the human body responsible for removing toxins and metabolic waste?
+    A. lungs
+    B. stomach
+    C. intestines
+    D. None of the above
+    E. I don't know
+C. intestines (incorrect D.)
+
+Question 101: What is the sum of the first 7 prime numbers?
+    A. 21
+    B. 35
+    C. 42
+    D. None of the above
+    E. I don't know
+The sum of the first 7 prime numbers is 42. (incorrect D.)
+
+Question 103: Who is known as the Father of Modern China?
+    A. Deng Xiaoping
+    B. Mao Zedong
+    C. Chiang Kai-shek
+    D. None of the above
+    E. I don't know
+B. Mao Zedong (incorrect D.)
+
+Question 104: Which mathematician is known for his work on the prime number theorem?
+    A. Pythagoras
+    B. Archimedes
+    C. Isaac Newton
+    D. None of the above
+    E. I don't know
+C. Isaac Newton (incorrect D.)
+
+Question 106: Who wrote the tragedies Oedipus the King and Antigone?
+    A. Aeschylus
+    B. Euripides
+    C. Homer
+    D. None of the above
+    E. I don't know
+A. Aeschylus (incorrect D.)
+
+Question 107: What is the logical principle known as the 'law of excluded middle'?
+    A. A statement cannot be both true and false
+    B. A statement is neither true nor false
+    C. A statement can be both true and false
+    D. None of the above
+    E. I don't know
+A statement cannot be both true and false. (incorrect D.)
+
+Question 108: What is the chemical formula for Propane?
+    A. C2H6
+    B. H2O
+    C. C3H7
+    D. None of the above
+    E. I don't know
+C3H7 (incorrect D.)
+
+Question 109: What galaxy is the Earth located in?
+    A. Andromeda
+    B. Comma Galaxy
+    C. Pinwheel Galaxy
+    D. None of the above
+    E. I don't know
+The Earth is located in the Milky Way Galaxy. (incorrect D.)
+
+Question 114: What is the scientific classification for ants?
+    A. Arachnida
+    B. Insecta
+    C. Mammalia
+    D. None of the above
+    E. I don't know
+B. Insecta (incorrect D.)
+
+Question 118: What is the primary greenhouse gas in Earth's atmosphere?
+    A. Ozone
+    B. Methane
+    C. Water vapor
+    D. None of the above
+    E. I don't know
+C. Water vapor (incorrect D.)
+
+Question 119: What is the scientific name of the common daisy?
+    A. Ranunculus acris
+    B. Campanula rapunculus
+    C. Tulipa gesneriana
+    D. None of the above
+    E. I don't know
+A. Ranunculus acris (incorrect D.)
+
+Question 120: Who was the Prime Minister of Canada in 2014?
+    A. Justin Trudeau
+    B. Jean Chretien
+    C. Paul Martin
+    D. None of the above
+    E. I don't know
+A. Justin Trudeau (incorrect D.)
+
+Question 121: In what century did the French Revolution occur?
+    A. 17th Century
+    B. 19th Century
+    C. 20th Century
+    D. None of the above
+    E. I don't know
+The French Revolution occurred in the 18th century. (incorrect D.)
+
+Question 122: In mathematics, what is the mathematical constant e?
+    A. 3.1415
+    B. 1.6180
+    C. 7.1234
+    D. None of the above
+    E. I don't know
+B. 1.6180 (incorrect D.)
+
+Question 123: What is the term for a large body of air that is characterized by slowly horizontal movement, similar temperature and humidity?
+    A. Wind stream
+    B. Hurricane
+    C. Fog bank
+    D. None of the above
+    E. I don't know
+C. Fog bank (incorrect D.)
+
+Question 124: What is the medical name for the procedure whereby a tube is inserted into a patient's bladder to collect urine?
+    A. Stent insertion
+    B. Laparoscopy
+    C. Dialysis
+    D. None of the above
+    E. I don't know
+C. Dialysis (incorrect D.)
+
+Question 125: What is the name of the scientific study of the structure, development, and use of language?
+    A. Psychology
+    B. Sociology
+    C. Philosophy
+    D. None of the above
+    E. I don't know
+C. Philosophy (incorrect D.)
+
+Question 129: What is the term used to refer to the way a language changes over time?
+    A. Synchony
+    B. Dialectology
+    C. Orthography
+    D. None of the above
+    E. I don't know
+B. Dialectology (incorrect D.)
+
+Question 130: What is the name of the phenomenon where the presence of predators reduces the population of prey?
+    A. Herbivore-plant cycle
+    B. Competition cycle
+    C. Habitat destruction cycle
+    D. None of the above
+    E. I don't know
+C. Habitat destruction cycle (incorrect D.)
+
+Question 132: Which of the following is a renewable natural resource?
+    A. Coal
+    B. Uranium
+    C. Crude Oil
+    D. None of the above
+    E. I don't know
+C. Crude Oil (incorrect D.)
+
+Question 134: The development of suburban sprawl has been linked with which two features of urban planning?
+    A. Compact development and shared use paths
+    B. Green belts and regional planning
+    C. Urban density and public transportation
+    D. None of the above
+    E. I don't know
+B. Green belts and regional planning (incorrect D.)
+
+Question 136: What is the name of the political party that is currently in power in the United Kingdom?
+    A. The Labour Party
+    B. The Liberal Democrats
+    C. The Green Party
+    D. None of the above
+    E. I don't know
+The Labour Party (incorrect D.)
+
+Question 137: What is the scientific name for the common bean?
+    A. Brassica oleracea
+    B. Vicia faba
+    C. Vigna radiata
+    D. None of the above
+    E. I don't know
+B. Vicia faba (incorrect D.)
+
+Question 139: What is the longest river in the United States?
+    A. Columbia River
+    B. Snake River
+    C. Colorado River
+    D. None of the above
+    E. I don't know
+The longest river in the United States is the Missouri River. (incorrect D.)
+
+Question 141: Who proposed the Big Bang Theory of the universe?
+    A. Albert Einstein
+    B. Isaac Newton
+    C. Stephen Hawking
+    D. None of the above
+    E. I don't know
+C. Stephen Hawking (incorrect D.)
+
+Question 142: What type of plant is a carnation?
+    A. Tomato
+    B. Oak Tree
+    C. Rose
+    D. None of the above
+    E. I don't know
+C. Rose (incorrect D.)
+
+Question 143: Which of the following philosophers is associated with the expression 'I think, therefore I am'?
+    A. Plato
+    B. Aristotle
+    C. Kant
+    D. None of the above
+    E. I don't know
+B. Aristotle (incorrect D.)
+
+Question 144: The ocean currents of the North Pacific Gyre are responsible for creating which phenomenon?
+    A. The Sargasso Sea
+    B. Monsoon Winds
+    C. The Bermuda Triangle
+    D. None of the above
+    E. I don't know
+The ocean currents of the North Pacific Gyre are responsible for creating the Sargasso Sea. (incorrect D.)
+
+Question 145: What is the philosophical principle known as Occam's Razor?
+    A. The more complex the explanation, the more likely it is to be true
+    B. The best explanation is the one with the most evidence
+    C. The most accurate explanation is the one with the most data
+    D. None of the above
+    E. I don't know
+B. The best explanation is the one with the most evidence. (incorrect D.)
+
+Question 146: In the 2008 Summer Olympics, who won the gold medal in the Men's 200 meter sprint?
+    A. Michael Johnson
+    B. Carl Lewis
+    C. Yohan Blake
+    D. None of the above
+    E. I don't know
+C. Yohan Blake (incorrect D.)
+
+Question 149: What is the scientific name for the Japanese Maple Tree?
+    A. Acer japonicum
+    B. Acer rubrum
+    C. Acer pseudoplatanus
+    D. None of the above
+    E. I don't know
+A. Acer japonicum (incorrect D.)
+
+Question 150: What is the primary language of Ethiopia?
+    A. Arabic
+    B. English
+    C. Tigrinya
+    D. None of the above
+    E. I don't know
+C. Tigrinya (incorrect D.)
+
+Question 153: Who formulated the Theory of Relativity?
+    A. Newton
+    B. Descartes
+    C. Kant
+    D. None of the above
+    E. I don't know
+A. Newton (incorrect D.)
+
+Question 154: What is the most decorated American veteran of World War II?
+    A. George S. Patton
+    B. Ernest King
+    C. Douglas MacArthur
+    D. None of the above
+    E. I don't know
+C. Douglas MacArthur (incorrect D.)
+
+Question 155: Who is the Norse God of Mischief?
+    A. Thor
+    B. Frigg
+    C. Odin
+    D. None of the above
+    E. I don't know
+C. Odin (incorrect D.)
+
